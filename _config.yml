@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 title: Matjaž Krnc
-description: Faculty of Mathematics, Natural Sciences and Information Technologies, University of Primorska, Koper, Slovenia
-logo: ./charles_bridge.png
-github:
-  is_project_page: false
+description: 
+University of Primorska, Faculty of Mathematics, Natural Sciences and Information Technologies,
+Glagoljaška ulica 8, 6000 Koper, Slovenia
+e-mail: matjaz.krnc@upr.si
+logo: ./charles_bridge.jpeg
