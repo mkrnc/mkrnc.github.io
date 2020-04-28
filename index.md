@@ -1,2 +1,1 @@
-# Matjaž Krnc
-## UP FAMNIT
+Lots of fun content
