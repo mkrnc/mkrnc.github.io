@@ -120,7 +120,7 @@ Year|Institution
 
 # Reseach collaborations, students
 
-I have had pleasure doing research (a week or more) with:
+I have had pleasure doing research (a week or more) with
 
 Jernej Azarija, Vesna Andova, Mikita Akulich (MSc. student), Nino 
 Bašič, Gregor Bankhamer, Jesse Beisegel, Petra Berenbrink, Marthe 
@@ -135,9 +135,7 @@ Petrickova, Ulrik Pferschy, Tomaž Pisanski, Nevena Pivač (MSc.
 student), Nicolás Rivera, Ondrej Rucky, Thomas Sauerwald, Joachim 
 Schauer, Robert Scheffler, Jean-Sebastien Sereni, Ladislav 
 Stacho, Martin Strehler, John Sylvester, Riste Škrekovski, Jan 
-Volec, Misha Vyalyi, Tomasz Walen, Zelealem Yilma
-
-
+Volec, Misha Vyalyi, Tomasz Walen, Robin J Wilson, Zelealem Yilma.
 
 # Organised events:
 
