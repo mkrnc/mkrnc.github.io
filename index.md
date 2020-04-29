@@ -71,10 +71,10 @@ Year | _
   - Computer Laboratory, Cambridge, UK
   - Brandenburgische Technische Universität, Cottbus, Germany*
   - Karl-Franzens-Universität Graz, Austria*
-  - National Research University Higher School of Economics, 
-    Faculty of Computer Science, Moscow*
+  - National Research University Higher School of Economics, Faculty of Computer Science, Moscow*
   - Open University, Milton Keynes, United Kingdom
   - Masaryk University, Brno, Czech
+  
 (*funded by ARRS bilateral projects)
 
 # Invited talks and seminars
