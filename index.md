@@ -124,9 +124,10 @@ I have had pleasure doing research (a week or more) with:
 
 Jernej Azarija, Vesna Andova, Mikita Akulich (MSc. student), Nino 
 Bašič, Gregor Bankhamer, Jesse Beisegel, Petra Berenbrink, Marthe 
-Bonamy, Nina Chiarelli, Clement Dallard, Andreas Darmann, Carolin 
-Denkert, Zdenek Dvorak, Robert Elsaesser, Rok Erman, Vladimir 
-Gurvich, Frederic Havet, Tomas Kaiser, Dominik Kaaser, Frantisek 
+Bonamy, Nina Chiarelli, Clément Dallard, Andreas Darmann, Carolin 
+Denkert, Zdenek Dvorak, Robert Elsaesser, Rok Erman, Robert Ganian
+Vladimir Gurvich, Frederic Havet, Meike Hatzel, 
+Tomas Kaiser, Dominik Kaaser, Frantisek 
 Kardos, Lukasz Kowalik, Peter Kling, Nina Klobas (MSc. student), 
 Ekkehard Köhler, Daniel Kráľ, Martin Kupec, Anita Liebenau, Borut 
 Lužar, Martin Milanič, Martina Mockovciakova, Peter Muršič, Sarka 
