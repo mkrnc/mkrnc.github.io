@@ -61,32 +61,20 @@ Year | _
 # Research visits
 
   - INRIA, Sophia Antipolis, France* 
-
   - University of West Bohemia, Pilsen, Czech*
-
   - Charles University, Prague, Czech*
-
   - Pavol Jozef Šafárik University in Košice, Slovakia *
-
   - Institute of Informatics, Warsaw University, Pollan*
-
   - Faculty of Civil Engineering, University of Zagreb, Croatia*
-
   - LIAFA (CNRS), Université Paris Diderot, Franc*
-
   - Fachbereich Informatik, Universität Hamburg, Germany
-
   - Computer Laboratory, Cambridge, UK
-
   - Brandenburgische Technische Universität, Cottbus, Germany*
-
   - Karl-Franzens-Universität Graz, Austria*
-
   - National Research University Higher School of Economics, 
     Faculty of Computer Science, Moscow*
-
   - Open University, Milton Keynes, United Kingdom
-
+  - Masaryk University, Brno, Czech
 (*funded by ARRS bilateral projects)
 
 # Invited talks and seminars
