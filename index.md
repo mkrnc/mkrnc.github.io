@@ -134,7 +134,7 @@ Year|Event
 2019 Oct.| organised StuCoSReC 2019 - The 6th Student Computer   Science Research Conference 2019, Koper, Slovenia (stucosrec.feri.um.si/2019)
 
 
-[readme](./README.md)
+[readme](README)
 
 
 
