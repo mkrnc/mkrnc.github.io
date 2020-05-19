@@ -41,7 +41,7 @@ Sept. 2016–Feb. 2018 | Postdoc with prof. Robert Elsaesser | Efficient Algor
 
 # Publications and Conferences
 
-Please refer to [Cobiss](goo.gl/FBSSLJ) or [Google Scholar](bit.ly/Krnc-Scholar).
+Please refer to [Cobiss](https://goo.gl/FBSSLJ) or [Google Scholar](https://bit.ly/Krnc-Scholar).
 
 
 
