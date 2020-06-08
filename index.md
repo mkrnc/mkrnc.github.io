@@ -129,7 +129,7 @@ Volec, Misha Vyalyi, Tomasz Walen, Robin J Wilson, Zelealem Yilma.
 
 Year|Event
 -|-
-2018 Feb. | organised Software Tools for Mathematis, SageDays'97   workshop, Koper, Slovenia (stm.famnit.upr.si) 
-2019 Oct. |member of organising committee for MATCOS 2019 :  Middle-European Conference on Applied Theoretical Computer  Science, Koper, Slovenia (matcos.iam.upr.si)
-2019 Oct.| organised StuCoSReC 2019 - The 6th Student Computer   Science Research Conference 2019, Koper, Slovenia (stucosrec.feri.um.si/2019)
+2018 Feb. |  Software Tools for Mathematis, SageDays'97   workshop, Koper, Slovenia (stm.famnit.upr.si) 
+2019 Oct. | MATCOS 2019 :  Middle-European Conference on Applied Theoretical Computer  Science, Koper, Slovenia (matcos.iam.upr.si)
+2019 Oct.| StuCoSReC 2019 - The 6th Student Computer   Science Research Conference 2019, Koper, Slovenia (stucosrec.feri.um.si/2019)
 
