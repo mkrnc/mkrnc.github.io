@@ -1,20 +1,4 @@
-# Education
-
-- 2006–2011 (BSc. and MSc. equiv.) Interdisciplinary Study of 
-Computer Science and Mathematics; 
-title: Fullerene Graphs. Graduated with dean’s distinction; mean 
-grade 9.4.
-Faculty of Mathematics and Physics (University of Ljubljana) and 
-Faculty of Computer and Information Science (University of 
-Ljubljana).
-
-- 2011–2015 (PhD) Mathematics; title: Centrality Measures in Large 
-Networks; mean grade 10.
-Faculty of Mathematics and Physics (University of Ljubljana).
-
-
-
-# Positions:
+  # Current and previous positions
 
 Time | Position | Affiliation
 ------------ | ------ | -------
@@ -28,6 +12,20 @@ Sept. 2016–Feb. 2018 | Postdoc with prof. Robert Elsaesser | Efficient Algor
 2011–2015 | Teaching Assistant and PhD student | Faculty of Mathematics and Physics (University of Ljubljana) 
 2011–2015 | Young Researcher | Institute of Mathematics, Physics and Mechanics (Ljubljana)
 
+# Education
+
+2006–2011 (BSc. and MSc. equiv.) Interdisciplinary Study of 
+Computer Science and Mathematics; 
+title: _Fullerene Graphs._ Graduated with dean’s distinction; mean 
+grade 9.4.
+Faculty of Mathematics and Physics (University of Ljubljana) and 
+Faculty of Computer and Information Science (University of 
+Ljubljana).
+
+2011–2015 (PhD) Mathematics; title: _Centrality Measures in Large 
+Networks_; mean grade 10.
+Faculty of Mathematics and Physics (University of Ljubljana).
+
 
 # Research interests:
 
@@ -39,24 +37,40 @@ Sept. 2016–Feb. 2018 | Postdoc with prof. Robert Elsaesser | Efficient Algor
 
 - extremal graph theory; graph limits and flag algebra on graphs
 
-# Publications and Conferences
+# Publications
 
-Please refer to [Cobiss](https://goo.gl/FBSSLJ) or [Google Scholar](https://bit.ly/Krnc-Scholar).
+48 non-self-citations according to WoS, 56 non-self-citations according to Scopus, and 140 citations according to Google Scholar.
+
+For research papers and conferences please refer to [Cobiss](https://goo.gl/FBSSLJ) or [Google Scholar](https://bit.ly/Krnc-Scholar).
+
+**Reviewer for:**
+Mathematical Reviews,
+SIAM Journal on Discrete Mathematics,
+Journal of Graph Theory, 
+Discrete Mathematics,
+Discrete Applied Mathematics,
+Asian-European Journal of Mathematics,
+Graphs and Combinatorics,
+Mathematical Methods of Operations Research,
+RAIRO - Theoretical Informatics and Applications,
+Discussiones Mathematicae Graph Theory.
 
 
+**Reviewer for conferences:** LAGOS 2019, SPAA 2019, MFCS 2019, FCT 2017.
 
 # Fundings, Awards
 
 Year | _
 -|-
+2020 - 2021 | PI on the Slovenian side of bilateral ARRS research project, with USA (Rutgers Univ.)
 2019 | Erasmus+ visit to The Brandenburg University of Technology  Cottbus–Senftenberg
-2016 | Postdoc from Austrian Science Fund (P 27613) at Salzburg  University
+2016 - 2019 | Postdoc from Austrian Science Fund (P 27613) at Salzburg  University
 2016 | Funds for attending São Paulo School of Advanced Science on  Algorithms, Combinatorics and Optimization
 2016 | Part-time post-doctoral position at Faculty of Mathematics,  Natural Sciences and Information Technologies – University of Primorska
 2015 | Award for early PhD defense
 2013 | Ad-futura call for funding research collaboration of PhD students
 2013 | DIMAP visitor at Warwick University 
-2011 | Young researcher PhD position 
+2011 - 2015 | Young researcher PhD position 
 
 # Research visits
 
@@ -126,10 +140,11 @@ Stacho, Martin Strehler, John Sylvester, Riste Škrekovski, Jan
 Volec, Misha Vyalyi, Tomasz Walen, Robin J Wilson, Zelealem Yilma.
 
 # Organised events:
-
-Year|Event
--|-
-2018 Feb. |  Software Tools for Mathematis, SageDays'97   workshop, Koper, Slovenia (stm.famnit.upr.si) 
-2019 Oct. | MATCOS 2019 :  Middle-European Conference on Applied Theoretical Computer  Science, Koper, Slovenia (matcos.iam.upr.si)
-2019 Oct.| StuCoSReC 2019 - The 6th Student Computer   Science Research Conference 2019, Koper, Slovenia (stucosrec.feri.um.si/2019)
+\* OC member only
+Year|Event|Webpage
+-|-|-
+2021 Sep. | GROW 2021* : The Workshop on Graph Classes, Optimization and Width Parameters, Koper, Slovenia | TBA
+2019 Oct. | MATCOS 2019* :  Middle-European Conference on Applied Theoretical Computer  Science, Koper, Slovenia |matcos.iam.upr.si
+2019 Oct.| StuCoSReC 2019 - The 6th Student Computer   Science Research Conference 2019, Koper, Slovenia |stucosrec.feri.um.si/2019
+2018 Feb. |  Software Tools for Mathematis, SageDays'97   workshop, Koper, Slovenia |stm.famnit.upr.si
 
