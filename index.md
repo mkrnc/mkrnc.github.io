@@ -35,9 +35,9 @@ Faculty of Mathematics and Physics (University of Ljubljana).
 
 # Publications
 
-Over 45 non-self-citations according to WoS, over 55 non-self-citations according to Scopus, and over 145 citations according to Google Scholar.
+Over 45 non-self-citations according to WoS, over 55 non-self-citations according to Scopus, and over 145 citations according to [Google Scholar](https://bit.ly/Krnc-Scholar).
 
-For research papers and conferences please refer to [Cobiss](https://goo.gl/FBSSLJ) or [Google Scholar](https://bit.ly/Krnc-Scholar).
+Journal submissions are listed [here](pubs.md), for more please refer to the [Cobiss database](https://goo.gl/FBSSLJ).
 
 **Reviewer for:**
 Mathematical Reviews,
@@ -67,7 +67,7 @@ Year | _
 2013 | Ad-futura mobility grant for PhD students
 2011 - 2015 | Young researcher PhD position at the Institute for Mathematics, Physics and Mechanics (University of Ljubljana)
 
-# Research visits
+### Research visits
 
   - INRIA, Sophia Antipolis, France* 
   - University of West Bohemia, Pilsen, Czech*
@@ -175,6 +175,7 @@ Zelealem Yilma.
 
 ### Organised events:
 \* OC member only
+
 Year|Event|Webpage
 -|-|-
 2021 Sep. | GROW 2021* : The Workshop on Graph Classes, Optimization and Width Parameters, Koper, Slovenia | grow2021.famnit.upr.si
