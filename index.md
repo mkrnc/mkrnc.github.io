@@ -1,4 +1,4 @@
-  # Current and previous positions
+### Current and previous positions
 
 Time | Position | Affiliation
 ------------ | ------ | -------
@@ -12,7 +12,7 @@ Sept. 2016–Feb. 2018 | Postdoc with prof. Robert Elsaesser | Efficient Algor
 2011–2015 | Teaching Assistant and PhD student | Faculty of Mathematics and Physics (University of Ljubljana) 
 2011–2015 | Young Researcher | Institute of Mathematics, Physics and Mechanics (Ljubljana)
 
-# Education
+### Education
 
 2006–2011 (BSc. and MSc. equiv.) Interdisciplinary Study of 
 Computer Science and Mathematics; 
@@ -27,19 +27,15 @@ Networks_; mean grade 10.
 Faculty of Mathematics and Physics (University of Ljubljana).
 
 
-# Research interests:
+### Research interests:
 
-- algorithms on graphs; structural properties, recognition, 
-  symmetries, covers
-
-- consensus problem, distributed processes, probabilistic 
-  analysis
-
-- extremal graph theory; graph limits and flag algebra on graphs
+- structural and algorithmic graph theory
+- randomised distributed processes
+- extremal graph theory
 
 # Publications
 
-48 non-self-citations according to WoS, 56 non-self-citations according to Scopus, and 140 citations according to Google Scholar.
+Over 45 non-self-citations according to WoS, over 55 non-self-citations according to Scopus, and over 145 citations according to Google Scholar.
 
 For research papers and conferences please refer to [Cobiss](https://goo.gl/FBSSLJ) or [Google Scholar](https://bit.ly/Krnc-Scholar).
 
@@ -58,7 +54,7 @@ Discussiones Mathematicae Graph Theory.
 
 **Reviewer for conferences:** LAGOS 2019, SPAA 2019, MFCS 2019, FCT 2017.
 
-# Fundings, Awards
+### Fundings, Awards
 
 Year | _
 -|-
@@ -68,9 +64,8 @@ Year | _
 2016 | Funds for attending São Paulo School of Advanced Science on  Algorithms, Combinatorics and Optimization
 2016 | Part-time post-doctoral position at Faculty of Mathematics,  Natural Sciences and Information Technologies – University of Primorska
 2015 | Award for early PhD defense
-2013 | Ad-futura call for funding research collaboration of PhD students
-2013 | DIMAP visitor at Warwick University 
-2011 - 2015 | Young researcher PhD position 
+2013 | Ad-futura mobility grant for PhD students
+2011 - 2015 | Young researcher PhD position at the Institute for Mathematics, Physics and Mechanics (University of Ljubljana)
 
 # Research visits
 
@@ -91,7 +86,7 @@ Year | _
   
 (*funded by ARRS bilateral projects)
 
-# Invited talks and seminars
+### Invited talks and seminars
 
 Year|Institution
 -|-
@@ -120,30 +115,69 @@ Year|Institution
 
 
 
-# Reseach collaborations, students
+### Reseach collaborations, students
 
-I have had pleasure doing research (a week or more) with
+**MSc Students:** Mikita Akulich, Nina Klobas, Nevena Pivač
 
-Jernej Azarija, Vesna Andova, Mikita Akulich (MSc. student), Nino 
-Bašič, Gregor Bankhamer, Jesse Beisegel, Petra Berenbrink, Marthe 
-Bonamy, Nina Chiarelli, Clément Dallard, Andreas Darmann, Carolin 
-Denkert, Zdenek Dvorak, Robert Elsaesser, Rok Erman, Robert Ganian
-Vladimir Gurvich, Frederic Havet, Meike Hatzel, 
-Tomas Kaiser, Dominik Kaaser, Frantisek 
-Kardos, Lukasz Kowalik, Peter Kling, Nina Klobas (MSc. student), 
-Ekkehard Köhler, Daniel Kráľ, Martin Kupec, Anita Liebenau, Borut 
-Lužar, Martin Milanič, Martina Mockovciakova, Peter Muršič, Sarka 
-Petrickova, Ulrik Pferschy, Tomaž Pisanski, Nevena Pivač (MSc. 
-student), Nicolás Rivera, Ondrej Rucky, Thomas Sauerwald, Joachim 
-Schauer, Robert Scheffler, Jean-Sebastien Sereni, Ladislav 
-Stacho, Martin Strehler, John Sylvester, Riste Škrekovski, Jan 
-Volec, Misha Vyalyi, Tomasz Walen, Robin J Wilson, Zelealem Yilma.
+Additionally, I have had pleasure doing research (a week or more) with
 
-# Organised events:
+Jernej Azarija, 
+Vesna Andova, 
+Nino Bašič, 
+Gregor Bankhamer, 
+Jesse Beisegel, 
+Petra Berenbrink, 
+Marthe Bonamy, 
+Nina Chiarelli, 
+Clément Dallard, 
+Andreas Darmann, 
+Carolin Denkert, 
+Zdenek Dvorak, 
+Robert Elsaesser, 
+Rok Erman, 
+Robert Ganian
+Vladimir Gurvich, 
+Frederic Havet, 
+Meike Hatzel, 
+Tomas Kaiser, 
+Dominik Kaaser, 
+Frantisek Kardos, 
+Lukasz Kowalik, 
+Peter Kling, 
+Ekkehard Köhler, 
+Daniel Kráľ, 
+Martin Kupec, 
+Anita Liebenau, 
+Borut Lužar, 
+Martin Milanič, 
+Martina Mockovciakova, 
+Peter Muršič, Sarka 
+Petrickova, 
+Ulrik Pferschy, 
+Tomaž Pisanski, 
+Nicolás Rivera, 
+Ondrej Rucky, 
+Thomas Sauerwald, 
+Joachim Schauer, 
+Robert Scheffler, 
+Jean-Sebastien Sereni, 
+Ladislav Stacho, 
+Martin Strehler, 
+John Sylvester, 
+Riste Škrekovski, 
+Jan Volec, 
+Misha Vyalyi, 
+Tomasz Walen, 
+Robin J Wilson, 
+Zelealem Yilma.
+
+
+
+### Organised events:
 \* OC member only
 Year|Event|Webpage
 -|-|-
-2021 Sep. | GROW 2021* : The Workshop on Graph Classes, Optimization and Width Parameters, Koper, Slovenia | TBA
+2021 Sep. | GROW 2021* : The Workshop on Graph Classes, Optimization and Width Parameters, Koper, Slovenia | grow2021.famnit.upr.si
 2019 Oct. | MATCOS 2019* :  Middle-European Conference on Applied Theoretical Computer  Science, Koper, Slovenia |matcos.iam.upr.si
 2019 Oct.| StuCoSReC 2019 - The 6th Student Computer   Science Research Conference 2019, Koper, Slovenia |stucosrec.feri.um.si/2019
 2018 Feb. |  Software Tools for Mathematis, SageDays'97   workshop, Koper, Slovenia |stm.famnit.upr.si

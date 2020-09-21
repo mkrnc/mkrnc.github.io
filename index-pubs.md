@@ -44,8 +44,7 @@ Faculty of Mathematics and Physics (University of Ljubljana).
 1. KRNC, Matjaž, SERENI, Jean-Sébastien, ŠKREKOVSKI, Riste, YILMA, Zelealem
 B. Eccentricity of networks with structural constraints. Discussiones
 mathematicae. Graph theory. 2020, vol. 40, str. 1141-1162. ISSN 1234-3099.
- DOI:
-10.7151/dmgt.2180.
+DOI:10.7151/dmgt.2180.
 
 
 2. KRNC, Matjaž, PISANSKI, Tomaž. Characterization of generalised Petersen
