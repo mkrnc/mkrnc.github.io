@@ -184,4 +184,4 @@ Year|Event|Webpage
 2018 Feb. |  Software Tools for Mathematis, SageDays'97   workshop, Koper, Slovenia |stm.famnit.upr.si
 
 ### Thesis Supervision
-Please find your topic (here)[topics.pdf].
+Please find your topic [here](topics.pdf).
