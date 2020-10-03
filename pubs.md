@@ -9,8 +9,8 @@ DOI:10.7151/dmgt.2180.
 
 
 2. KRNC, Matjaž, PISANSKI, Tomaž. Characterization of generalised Petersen
-graphs that are Kronecker covers. Acta mathematica Universitatis Comenianae
-: New series. 2019, vol. 88, no. 3, str. 891-895.
+graphs that are Kronecker covers. Acta mathematica Universitatis Comenianae: 
+New series. 2019, vol. 88, no. 3, str. 891-895.
 
 
 3. BEISEGEL, Jesse, DENKERT, Carolin, KÖHLER, Ekkehard, KRNC, Matjaž,

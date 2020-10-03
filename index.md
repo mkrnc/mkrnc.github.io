@@ -33,10 +33,9 @@ Faculty of Mathematics and Physics (University of Ljubljana).
 - randomised distributed processes
 - extremal graph theory
 
-# Publications
+### Publications
 
 Over 45 non-self-citations according to WoS, over 55 non-self-citations according to Scopus, and over 145 citations according to [Google Scholar](https://bit.ly/Krnc-Scholar).
-
 Journal submissions are listed [here](pubs.md), for more please refer to the [Cobiss database](https://goo.gl/FBSSLJ).
 
 **Reviewer for:**
@@ -49,7 +48,8 @@ Asian-European Journal of Mathematics,
 Graphs and Combinatorics,
 Mathematical Methods of Operations Research,
 RAIRO - Theoretical Informatics and Applications,
-Discussiones Mathematicae Graph Theory.
+Discussiones Mathematicae Graph Theory,
+MDPI (Mathematics).
 
 
 **Reviewer for conferences:** LAGOS 2019, SPAA 2019, MFCS 2019, FCT 2017.
@@ -151,8 +151,8 @@ Anita Liebenau,
 Borut Lužar, 
 Martin Milanič, 
 Martina Mockovciakova, 
-Peter Muršič, Sarka 
-Petrickova, 
+Peter Muršič, 
+Sarka Petrickova, 
 Ulrik Pferschy, 
 Tomaž Pisanski, 
 Nicolás Rivera, 
@@ -183,3 +183,5 @@ Year|Event|Webpage
 2019 Oct.| StuCoSReC 2019 - The 6th Student Computer   Science Research Conference 2019, Koper, Slovenia |stucosrec.feri.um.si/2019
 2018 Feb. |  Software Tools for Mathematis, SageDays'97   workshop, Koper, Slovenia |stm.famnit.upr.si
 
+### Thesis Supervision
+Please find your topic (here)[topics.pdf].
