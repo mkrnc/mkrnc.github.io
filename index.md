@@ -35,8 +35,8 @@ Faculty of Mathematics and Physics (University of Ljubljana).
 
 ### Publications
 
-Over 45 non-self-citations according to WoS, over 55 non-self-citations according to Scopus, and over 145 citations according to [Google Scholar](https://bit.ly/Krnc-Scholar).
-Journal submissions are listed [here](pubs.md), for more please refer to the [Cobiss database](https://goo.gl/FBSSLJ).
+Over 60 citations according to WoS, over 70 citations according to Scopus, and over 150 citations according to [Google Scholar](https://bit.ly/Krnc-Scholar).
+Journal submissions are listed [here](pubs.md), for a full publication list please refer to the [Cobiss database](https://goo.gl/FBSSLJ).
 
 **Reviewer for:**
 Mathematical Reviews,
