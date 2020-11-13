@@ -21,11 +21,12 @@ grade 9.4.
 Faculty of Mathematics and Physics (University of Ljubljana) and 
 Faculty of Computer and Information Science (University of 
 Ljubljana).
+Advisor: Riste Škrekovski
 
 2011–2015 (PhD) Mathematics; title: _Centrality Measures in Large 
 Networks_; mean grade 10.
 Faculty of Mathematics and Physics (University of Ljubljana).
-
+Advisor: Riste Škrekovski
 
 ### Research interests:
 
