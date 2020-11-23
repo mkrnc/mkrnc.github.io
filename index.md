@@ -56,33 +56,6 @@ MDPI (Mathematics).
 **Reviewer for conferences:** LAGOS 2019, SPAA 2019, MFCS 2019, FCT 2017.
 
 
-### Invited talks and seminars
-
-Year|Institution
--|-
-2020 Mar.| Masaryk University, Brno, Czech
-2020 Feb.| Fachgebiet Diskrete Mathematik und Grundlagen der Informatik (B-TU Cottbus)
-2019 Nov.| Open University, Milton Keynes, United Kingdom
-2019 Aug.| National Research University Higher School of Economics,  Faculty of Computer Science, Moscow
-2019 May| FIN-TECH Risk management workshop on Blockchains (Joseph  Stefan Institute)
-2018 Dec.| Department of Mathematics, FAMNIT (UP)
-2018 Feb.| Software Tools for Mathematis, SageDays'97 workshop  (FAMNIT, UP)
-2018 Feb.| Fachgebiet Diskrete Mathematik und Grundlagen der Informatik (B-TU Cottbus)
-2017 Nov.| Computer Laboratory (University of Cambridge)
-2017 Oct.| Oberseminar Arbeitsbereich ART, Fachbereich Informatik,  (Universität Hamburg)
-2016 Jun.| Efficient Algorithms Group, Fachbereich  Computerwissenschaften (Paris Lodron University of Salzburg)
-2016 Apr.| Department of Information Science and Technologies, FAMNIT (UP)
-2016 Apr.| Department of Mathematics, FAMNIT (UP)
-2015 Apr.| Artificial Intelligence Laboratory (Joseph Stefan Institute) 
-2015 Feb.| Artificial Intelligence Laboratory (Joseph Stefan Institute) 
-2015 Jan.| Department of Mathematics, FAMNIT (UP)
-2014 Dec.| Seminar for Graph Theory and Algorithms, Faculty of  Mathematics and Physics (UL)
-2014 Mar.| Artificial Intelligence Laboratory (Joseph Stefan Institute) 
-2013 Dec.| Seminar for Graph Theory and Algorithms, Faculty of  Mathematics and Physics (UL)
-2013 Jan.| Seminar for Graph Theory and Algorithms, Faculty of  Mathematics and Physics (UL)
-2011 Oct.| Seminar for Graph Theory and Algorithms, Faculty of Mathematics and Physics (UL)
-2010 Oct.| Department of Mathematics, Faculty of Applied Sciences (University of West Bohemia)
-
 
 ### Reseach collaborations, students
 
@@ -171,6 +144,33 @@ Year | _
   - Masaryk University, Brno, Czech
   
 (*funded by ARRS bilateral projects)
+
+### Invited talks and seminar talks
+
+Year|Institution
+-|-
+2020 Mar.| Masaryk University, Brno, Czech
+2020 Feb.| Fachgebiet Diskrete Mathematik und Grundlagen der Informatik (B-TU Cottbus)
+2019 Nov.| Open University, Milton Keynes, United Kingdom
+2019 Aug.| National Research University Higher School of Economics,  Faculty of Computer Science, Moscow
+2019 May| FIN-TECH Risk management workshop on Blockchains (Joseph  Stefan Institute)
+2018 Dec.| Department of Mathematics, FAMNIT (UP)
+2018 Feb.| Software Tools for Mathematis, SageDays'97 workshop  (FAMNIT, UP)
+2018 Feb.| Fachgebiet Diskrete Mathematik und Grundlagen der Informatik (B-TU Cottbus)
+2017 Nov.| Computer Laboratory (University of Cambridge)
+2017 Oct.| Oberseminar Arbeitsbereich ART, Fachbereich Informatik,  (Universität Hamburg)
+2016 Jun.| Efficient Algorithms Group, Fachbereich  Computerwissenschaften (Paris Lodron University of Salzburg)
+2016 Apr.| Department of Information Science and Technologies, FAMNIT (UP)
+2016 Apr.| Department of Mathematics, FAMNIT (UP)
+2015 Apr.| Artificial Intelligence Laboratory (Joseph Stefan Institute) 
+2015 Feb.| Artificial Intelligence Laboratory (Joseph Stefan Institute) 
+2015 Jan.| Department of Mathematics, FAMNIT (UP)
+2014 Dec.| Seminar for Graph Theory and Algorithms, Faculty of  Mathematics and Physics (UL)
+2014 Mar.| Artificial Intelligence Laboratory (Joseph Stefan Institute) 
+2013 Dec.| Seminar for Graph Theory and Algorithms, Faculty of  Mathematics and Physics (UL)
+2013 Jan.| Seminar for Graph Theory and Algorithms, Faculty of  Mathematics and Physics (UL)
+2011 Oct.| Seminar for Graph Theory and Algorithms, Faculty of Mathematics and Physics (UL)
+2010 Oct.| Department of Mathematics, Faculty of Applied Sciences (University of West Bohemia)
 
 ### Organised events:
 \* OC member only
