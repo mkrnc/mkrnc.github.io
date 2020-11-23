@@ -4,8 +4,8 @@ Time | Position | Affiliation
 ------------ | ------ | -------
 2019–Present | Partial employment on a project: Graph Colorings, Decompositions and Coverings | Faculty of Mathematics and Physics, University of Ljubljana 
 2019–Present | Partial employment on a project: Action graphs and covering graph techniques | Institute of Mathematics, Physics and Mechanics, Ljubljana
+2017–Present | Partial employment in Complex Networks group | Faculty of Information Studies, Novo Mesto
 2016–Present | Docent (Assistant Professor) | Faculty of Mathematics, Natural Sciences and Information Technologies (University of Primorska)
-2017–2019 | Partial employment in Complex Networks group | Faculty of Information Studies, Novo Mesto
 Sept. 2016–Feb. 2018 | Postdoc with prof. Robert Elsaesser | Efficient Algorithms Group (Salzburg University)
 2015–2016 | Teaching Assistant | Faculty of Mathematics, Natural Sciences and Information Technologies (University of Primorska)
 2013 Sep.–Dec. | Student internship with prof. Daniel Kral | Centre for Discrete Mathematics and its Applications (University of Warwick) 
