@@ -1,3 +1,9 @@
+### Research interests:
+
+- structural and algorithmic graph theory
+- extremal graph theory, combinatorial limits 
+- randomised distributed processes
+
 ### Current and previous positions
 
 Time | Position | Affiliation
@@ -28,12 +34,6 @@ Networks_; mean grade 10.
 Faculty of Mathematics and Physics (University of Ljubljana).
 Advisor: Riste Škrekovski
 
-### Research interests:
-
-- structural and algorithmic graph theory
-- extremal graph theory, combinatorial limits 
-- randomised distributed processes
-
 ### Publications
 
 Over 60 citations according to WoS, over 70 citations according to Scopus, and over 150 citations according to [Google Scholar](https://bit.ly/Krnc-Scholar).
@@ -55,36 +55,6 @@ MDPI (Mathematics).
 
 **Reviewer for conferences:** LAGOS 2019, SPAA 2019, MFCS 2019, FCT 2017.
 
-### Fundings, Awards
-
-Year | _
--|-
-2020 - 2021 | Bilateral ARRS research project, with Rutgers University (USA)
-2019 | Erasmus+ mobility project with The Brandenburg University of Technology Cottbus–Senftenberg
-2016 | Funds for attending São Paulo School of Advanced Science on  Algorithms, Combinatorics and Optimization
-2016 | Part-time post-doctoral position at Faculty of Mathematics,  Natural Sciences and Information Technologies – University of Primorska
-2015 | Award for early PhD defense
-2013 | Ad-futura mobility grant for PhD students
-2011 - 2015 | Young researcher PhD position at the Institute for Mathematics, Physics and Mechanics (University of Ljubljana)
-
-### Research visits
-
-  - INRIA, Sophia Antipolis, France* 
-  - University of West Bohemia, Pilsen, Czech*
-  - Charles University, Prague, Czech*
-  - Pavol Jozef Šafárik University in Košice, Slovakia *
-  - Institute of Informatics, Warsaw University, Pollan*
-  - Faculty of Civil Engineering, University of Zagreb, Croatia*
-  - LIAFA (CNRS), Université Paris Diderot, Franc*
-  - Fachbereich Informatik, Universität Hamburg, Germany
-  - Computer Laboratory, Cambridge, UK
-  - Brandenburgische Technische Universität, Cottbus, Germany*
-  - Karl-Franzens-Universität Graz, Austria*
-  - National Research University Higher School of Economics, Faculty of Computer Science, Moscow*
-  - Open University, Milton Keynes, United Kingdom
-  - Masaryk University, Brno, Czech
-  
-(*funded by ARRS bilateral projects)
 
 ### Invited talks and seminars
 
@@ -112,7 +82,6 @@ Year|Institution
 2013 Jan.| Seminar for Graph Theory and Algorithms, Faculty of  Mathematics and Physics (UL)
 2011 Oct.| Seminar for Graph Theory and Algorithms, Faculty of Mathematics and Physics (UL)
 2010 Oct.| Department of Mathematics, Faculty of Applied Sciences (University of West Bohemia)
-
 
 
 ### Reseach collaborations, students
@@ -172,7 +141,36 @@ Tomasz Walen,
 Robin J Wilson, 
 Zelealem Yilma.
 
+### Fundings, Awards
 
+Year | _
+-|-
+2020 - 2021 | Bilateral ARRS research project, with Rutgers University (USA)
+2019 | Erasmus+ mobility project with The Brandenburg University of Technology Cottbus–Senftenberg
+2016 | Funds for attending São Paulo School of Advanced Science on  Algorithms, Combinatorics and Optimization
+2016 | Part-time post-doctoral position at Faculty of Mathematics,  Natural Sciences and Information Technologies – University of Primorska
+2015 | Award for early PhD defense
+2013 | Ad-futura mobility grant for PhD students
+2011 - 2015 | Young researcher PhD position at the Institute for Mathematics, Physics and Mechanics (University of Ljubljana)
+
+### Research visits
+
+  - INRIA, Sophia Antipolis, France* 
+  - University of West Bohemia, Pilsen, Czech*
+  - Charles University, Prague, Czech*
+  - Pavol Jozef Šafárik University in Košice, Slovakia *
+  - Institute of Informatics, Warsaw University, Pollan*
+  - Faculty of Civil Engineering, University of Zagreb, Croatia*
+  - LIAFA (CNRS), Université Paris Diderot, Franc*
+  - Fachbereich Informatik, Universität Hamburg, Germany
+  - Computer Laboratory, Cambridge, UK
+  - Brandenburgische Technische Universität, Cottbus, Germany*
+  - Karl-Franzens-Universität Graz, Austria*
+  - National Research University Higher School of Economics, Faculty of Computer Science, Moscow*
+  - Open University, Milton Keynes, United Kingdom
+  - Masaryk University, Brno, Czech
+  
+(*funded by ARRS bilateral projects)
 
 ### Organised events:
 \* OC member only
