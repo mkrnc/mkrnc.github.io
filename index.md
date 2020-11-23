@@ -31,8 +31,8 @@ Advisor: Riste Škrekovski
 ### Research interests:
 
 - structural and algorithmic graph theory
+- extremal graph theory, combinatorial limits 
 - randomised distributed processes
-- extremal graph theory
 
 ### Publications
 
