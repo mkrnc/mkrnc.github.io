@@ -37,7 +37,7 @@ Advisor: Riste Škrekovski
 ### Publications
 
 Over 60 citations according to WoS, over 70 citations according to Scopus, and over 150 citations according to [Google Scholar](https://bit.ly/Krnc-Scholar).
-Journal submissions are listed [here](pubs.md), for a full publication list please refer to the [Cobiss database](https://goo.gl/FBSSLJ).
+For a publication list please refer to the [Cobiss database](https://goo.gl/FBSSLJ).
 
 **Reviewer for:**
 Mathematical Reviews,
