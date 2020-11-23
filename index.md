@@ -61,7 +61,6 @@ Year | _
 -|-
 2020 - 2021 | PI on the Slovenian side of bilateral ARRS research project, with USA (Rutgers Univ.)
 2019 | Erasmus+ visit to The Brandenburg University of Technology  Cottbus–Senftenberg
-2016 - 2019 | Postdoc from Austrian Science Fund (P 27613) at Salzburg  University
 2016 | Funds for attending São Paulo School of Advanced Science on  Algorithms, Combinatorics and Optimization
 2016 | Part-time post-doctoral position at Faculty of Mathematics,  Natural Sciences and Information Technologies – University of Primorska
 2015 | Award for early PhD defense
