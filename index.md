@@ -50,7 +50,8 @@ Graphs and Combinatorics,
 Mathematical Methods of Operations Research,
 RAIRO - Theoretical Informatics and Applications,
 Discussiones Mathematicae Graph Theory,
-MDPI (Mathematics).
+MDPI (Mathematics),
+Mathematica Bohemica.
 
 
 **Reviewer for conferences:** LAGOS 2019, SPAA 2019, MFCS 2019, FCT 2017.
