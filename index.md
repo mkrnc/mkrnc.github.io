@@ -21,16 +21,8 @@ Sept. 2016–Feb. 2018 | Postdoc with prof. Robert Elsaesser | Efficient Algor
 ### Education
 
 
-2006–2011 | 
-BSc. and MSc. equiv. at Interdisciplinary Study of Computer Science and Mathematics (title: _Fullerene Graphs._) | 
-Graduated with dean’s distinction; mean grade 9.4; advisor: Riste Škrekovski |
-Faculty of Mathematics and Physics (University of Ljubljana) and Faculty of Computer and Information Science (University of Ljubljana)
-
-
-2011–2015 |
-PhD in Mathematics (title: _Centrality Measures in Large Networks_)|
-Graduated with rector’s distinction; mean grade 10; advisor: Riste Škrekovski |
-Faculty of Mathematics and Physics (University of Ljubljana)
+2006–2011 | BSc. and MSc. equiv. at Interdisciplinary Study of Computer Science and Mathematics (title: _Fullerene Graphs._) | Graduated with dean’s distinction; mean grade 9.4; advisor: Riste Škrekovski | Faculty of Mathematics and Physics (University of Ljubljana) and Faculty of Computer and Information Science (University of Ljubljana)
+2011–2015 | PhD in Mathematics (title: _Centrality Measures in Large Networks_)| Graduated with rector’s distinction; mean grade 10; advisor: Riste Škrekovski | Faculty of Mathematics and Physics (University of Ljubljana)
 
 ### Publications
 
