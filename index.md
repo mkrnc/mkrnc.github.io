@@ -4,30 +4,10 @@
 - extremal graph theory, combinatorial limits 
 - randomised distributed processes
 
-### Current and previous positions
-
-Time | Position | Affiliation
------------- | ------ | -------
-2019–Present | Partial employment on a project: Graph Colorings, Decompositions and Coverings | Faculty of Mathematics and Physics, University of Ljubljana 
-2019–Present | Partial employment on a project: Action graphs and covering graph techniques | Institute of Mathematics, Physics and Mechanics, Ljubljana
-2017–Present | Partial employment in Complex Networks group | Faculty of Information Studies, Novo Mesto
-2016–Present | Docent (Assistant Professor) | Faculty of Mathematics, Natural Sciences and Information Technologies (University of Primorska)
-Sept. 2016–Feb. 2018 | Postdoc with prof. Robert Elsaesser | Efficient Algorithms Group (Salzburg University)
-2015–2016 | Teaching Assistant | Faculty of Mathematics, Natural Sciences and Information Technologies (University of Primorska)
-2013 Sep.–Dec. | Student internship with prof. Daniel Kral | Centre for Discrete Mathematics and its Applications (University of Warwick) 
-2011–2015 | Teaching Assistant and PhD student | Faculty of Mathematics and Physics (University of Ljubljana) 
-2011–2015 | Young Researcher | Institute of Mathematics, Physics and Mechanics (Ljubljana)
-
-### Education
-
-||||| 
--|-|-|-
-2006–2011 | BSc. and MSc. equiv. at Interdisciplinary Study of Computer Science and Mathematics (title: _Fullerene Graphs._) | Graduated with dean’s distinction; mean grade 9.4; advisor: Riste Škrekovski | University of Ljubljana
-2011–2015 | PhD in Mathematics (title: _Centrality Measures in Large Networks_)| Graduated with rector’s distinction; mean grade 10; advisor: Riste Škrekovski | University of Ljubljana
 
 ### Publications
 
-Over 60 citations according to WoS, over 70 citations according to Scopus, and over 150 citations according to [Google Scholar](https://bit.ly/Krnc-Scholar).
+Over 80 citations according to WoS, over 100 citations according to Scopus, and over 190 citations according to [Google Scholar](https://bit.ly/Krnc-Scholar).
 For a publication list please refer to the [Cobiss database](https://goo.gl/FBSSLJ).
 
 **Reviewer for:**
@@ -46,6 +26,25 @@ Mathematica Bohemica.
 
 
 **Reviewer for conferences:** LAGOS 2019, SPAA 2019, MFCS 2019, FCT 2017.
+
+### Current and previous positions
+
+Time | Position | Affiliation
+------------ | ------ | -------
+2022–Present | Associate Professor | Faculty of Mathematics, Natural Sciences and Information Technologies (University of Primorska)
+2016–2021 | Docent (Assistant Professor) | Faculty of Mathematics, Natural Sciences and Information Technologies (University of Primorska)
+Sept. 2016–Feb. 2018 | Postdoc with prof. Robert Elsaesser | Efficient Algorithms Group (Salzburg University)
+2015–2016 | Teaching Assistant | Faculty of Mathematics, Natural Sciences and Information Technologies (University of Primorska)
+2013 Sep.–Dec. | Student internship with prof. Daniel Kral | Centre for Discrete Mathematics and its Applications (University of Warwick) 
+2011–2015 | Teaching Assistant and PhD student | Faculty of Mathematics and Physics (University of Ljubljana) 
+2011–2015 | Young Researcher | Institute of Mathematics, Physics and Mechanics (Ljubljana)
+
+### Education
+
+||||| 
+-|-|-|-
+2006–2011 | BSc. and MSc. equiv. at Interdisciplinary Study of Computer Science and Mathematics (title: _Fullerene Graphs._) | Graduated with dean’s distinction; mean grade 9.4; advisor: Riste Škrekovski | University of Ljubljana
+2011–2015 | PhD in Mathematics (title: _Centrality Measures in Large Networks_)| Graduated with rector’s distinction; mean grade 10; advisor: Riste Škrekovski | University of Ljubljana
 
 
 
@@ -123,7 +122,7 @@ Year | _
   - INRIA, Sophia Antipolis, France* 
   - University of West Bohemia, Pilsen, Czech*
   - Charles University, Prague, Czech*
-  - Pavol Jozef Šafárik University in Košice, Slovakia *
+  - Pavol Jozef Šafárik University in Košice, Slovakia*
   - Institute of Informatics, Warsaw University, Pollan*
   - Faculty of Civil Engineering, University of Zagreb, Croatia*
   - LIAFA (CNRS), Université Paris Diderot, Franc*
@@ -137,7 +136,7 @@ Year | _
   
 (*funded by ARRS bilateral projects)
 
-### Invited talks and seminar talks
+### Invited (mostly seminar) talks
 
 Year|Institution
 -|-
@@ -175,4 +174,19 @@ Year|Event|Webpage
 2018 Feb. |  Software Tools for Mathematis, SageDays'97   workshop, Koper, Slovenia |stm.famnit.upr.si
 
 ### Thesis Supervision
+
+Student||year
+-|-|-
+Mikita Akulich* | BSc | 
+Nina Klobas | MSc |
+Jelena Ilič* | BSc |
+Nevena Pivač | MSc |
+Mikita Akulich* | MSc | ongoing
+Đorđe Klisura | BSc |
+Ina Bašič | BSc | ongoing
+
+* co-advisor only
+
+
+
 Please find your topic [here](topics.pdf).
