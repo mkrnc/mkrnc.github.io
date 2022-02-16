@@ -1,3 +1,9 @@
+### Contact:
+ - email: matjaz.krnc@upr.si 
+ - office: I/2-1 (Galeb)
+ - phone: +386 (0)5 611 76 53
+
+
 ### Research interests:
 
 - structural and algorithmic graph theory
