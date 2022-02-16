@@ -177,15 +177,15 @@ Year|Event|Webpage
 
 Student||year
 -|-|-
-Mikita Akulich* | BSc | 
-Nina Klobas | MSc |
-Jelena Ilič* | BSc |
-Nevena Pivač | MSc |
+Mikita Akulich* | BSc | 2017
+Jelena Ilič* | BSc | 2019
+Nina Klobas | MSc | 2020
+Nevena Pivač | MSc | 2020
+Đorđe Klisura | BSc | 2020
 Mikita Akulich* | MSc | ongoing
-Đorđe Klisura | BSc |
 Ina Bašič | BSc | ongoing
 
-* co-advisor only
+\* co-advisor only
 
 
 
