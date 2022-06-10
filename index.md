@@ -12,7 +12,7 @@
 
 ### Publications
 
-Over 80 citations according to WoS, over 100 citations according to Scopus, and over 190 citations according to [Google Scholar](https://bit.ly/Krnc-Scholar).
+Over 80 citations according to WoS, over 100 citations according to Scopus, and over 210 citations according to [Google Scholar](https://bit.ly/Krnc-Scholar).
 For a publication list please refer to the [Cobiss database](https://goo.gl/FBSSLJ).
 
 **Reviewer for:**
@@ -70,6 +70,7 @@ Zdenek Dvorak,
 Robert Elsaesser, 
 Rok Erman, 
 Robert Ganian,
+Frederik Garbe,
 Vladimir Gurvich, 
 Robert Hancock,
 Meike Hatzel, 
@@ -86,7 +87,9 @@ Anita Liebenau,
 Borut Lužar, 
 Martin Milanič, 
 Martina Mockovciakova, 
+Samuel Mohr,
 Peter Muršič, 
+Vít Musil,
 Sarka Petrickova, 
 Ulrik Pferschy, 
 Tomaž Pisanski, 
