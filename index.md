@@ -113,12 +113,13 @@ Zelealem Yilma.
 
 | Year        | \_                                                                                                                                   |
 | :---------- | :----------------------------------------------------------------------------------------------------------------------------------- |
-| 2020 - 2021 | Bilateral ARRS research project, with Rutgers University (USA)                                                                       |
+| 2022 - 2024 | ARRS bilateral research project (BI-US/22-24-093), with Rutgers University (USA)        |
+| 2019 - 2021 | ARRS bilateral research project (BI-US/19-21-018), with Rutgers University (USA)        |
 | 2019        | Erasmus+ mobility project with The Brandenburg University of Technology Cottbus–Senftenberg                                          |
 | 2016        | Funds for attending São Paulo School of Advanced Science on  Algorithms, Combinatorics and Optimization                              |
 | 2016        | Part-time post-doctoral position at Faculty of Mathematics,  Natural Sciences and Information Technologies – University of Primorska |
 | 2015        | Award for early PhD defense                                                                                                          |
-| 2013        | Ad-futura mobility grant for PhD students                                                                                            |
+| 2013        | Ad-futura mobility grant for PhD students, for research visit to Warwick University  |
 | 2011 - 2015 | Young researcher PhD position at the Institute for Mathematics, Physics and Mechanics (University of Ljubljana)                      |
 
 ### Research visits
