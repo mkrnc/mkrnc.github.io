@@ -12,7 +12,7 @@
 
 ### Publications
 
-Over 80 citations according to WoS, over 100 citations according to Scopus, and over 210 citations according to [Google Scholar](https://bit.ly/Krnc-Scholar).
+Over 80 citations according to WoS, over 110 citations according to Scopus, and over 220 citations according to [Google Scholar](https://bit.ly/Krnc-Scholar).
 For a publication list please refer to the [Cobiss database](https://goo.gl/FBSSLJ).
 
 **Reviewer for:**
@@ -36,9 +36,9 @@ Mathematica Bohemica.
 | :----------------------------- | :---------------------------------------- | :---------------------------------------------------------------------------------------------- |
 | 2022–Present                   | Associate Professor                       | Faculty of Mathematics, Natural Sciences and Information Technologies (University of Primorska) |
 | 2016–2021                      | Docent (Assistant Professor)              | Faculty of Mathematics, Natural Sciences and Information Technologies (University of Primorska) |
-| Sept.&nbsp;2016–Feb.&nbsp;2018 | Postdoc with prof. Robert Elsaesser       | Efficient Algorithms Group (Salzburg University)                                                |
+| Sept.;2016–Feb. 2018 | Postdoc with prof. Robert Elsaesser       | Efficient Algorithms Group (Salzburg University)                                                |
 | 2015–2016                      | Teaching Assistant                        | Faculty of Mathematics, Natural Sciences and Information Technologies (University of Primorska) |
-| 2013&nbsp;Sep.–Dec.            | Student internship with prof. Daniel Kral | Centre for Discrete Mathematics and its Applications (University of Warwick)                    |
+| 2013;Sep.–Dec.            | Student internship with prof. Daniel Kral | Centre for Discrete Mathematics and its Applications (University of Warwick)                    |
 | 2011–2015                      | Teaching Assistant and PhD student        | Faculty of Mathematics and Physics (University of Ljubljana)                                    |
 | 2011–2015                      | Young Researcher                          | Institute of Mathematics, Physics and Mechanics (Ljubljana)                                     |
 
@@ -147,37 +147,37 @@ Zelealem Yilma.
 | :------------- | :---------------------------------------------------------------------------------------------------- |
 | 2020 Mar.      | Masaryk University, Brno, Czech                                                                       |
 | 2020 Feb.      | Fachgebiet Diskrete Mathematik und Grundlagen der Informatik (B-TU Cottbus)                           |
-| 2019&nbsp;Nov. | Open University, Milton Keynes, United Kingdom                                                        |
-| 2019&nbsp;Aug. | National Research University Higher School of Economics,  Faculty of Computer Science, Moscow         |
-| 2019&nbsp;May  | FIN-TECH Risk management workshop on Blockchains (Joseph  Stefan Institute)                           |
-| 2018&nbsp;Dec. | Department of Mathematics, FAMNIT (UP)                                                                |
-| 2018&nbsp;Feb. | Software Tools for Mathematis, SageDays'97 workshop  (FAMNIT, UP)                                     |
-| 2018&nbsp;Feb. | Fachgebiet Diskrete Mathematik und Grundlagen der Informatik (B-TU Cottbus)                           |
-| 2017&nbsp;Nov. | Computer Laboratory (University of Cambridge)                                                         |
-| 2017&nbsp;Oct. | Oberseminar Arbeitsbereich ART, Fachbereich Informatik,  (Universität Hamburg)                        |
-| 2016&nbsp;Jun. | Efficient Algorithms Group, Fachbereich  Computerwissenschaften (Paris Lodron University of Salzburg) |
-| 2016&nbsp;Apr. | Department of Information Science and Technologies, FAMNIT (UP)                                       |
-| 2016&nbsp;Apr. | Department of Mathematics, FAMNIT (UP)                                                                |
-| 2015&nbsp;Apr. | Artificial Intelligence Laboratory (Joseph Stefan Institute)                                          |
-| 2015&nbsp;Feb. | Artificial Intelligence Laboratory (Joseph Stefan Institute)                                          |
-| 2015&nbsp;Jan. | Department of Mathematics, FAMNIT (UP)                                                                |
-| 2014&nbsp;Dec. | Seminar for Graph Theory and Algorithms, Faculty of  Mathematics and Physics (UL)                     |
-| 2014&nbsp;Mar. | Artificial Intelligence Laboratory (Joseph Stefan Institute)                                          |
-| 2013&nbsp;Dec. | Seminar for Graph Theory and Algorithms, Faculty of  Mathematics and Physics (UL)                     |
-| 2013&nbsp;Jan. | Seminar for Graph Theory and Algorithms, Faculty of  Mathematics and Physics (UL)                     |
-| 2011&nbsp;Oct. | Seminar for Graph Theory and Algorithms, Faculty of Mathematics and Physics (UL)                      |
-| 2010&nbsp;Oct. | Department of Mathematics, Faculty of Applied Sciences (University of West Bohemia)                   |
+| 2019 Nov. | Open University, Milton Keynes, United Kingdom                                                        |
+| 2019 Aug. | National Research University Higher School of Economics,  Faculty of Computer Science, Moscow         |
+| 2019 May  | FIN-TECH Risk management workshop on Blockchains (Joseph  Stefan Institute)                           |
+| 2018 Dec. | Department of Mathematics, FAMNIT (UP)                                                                |
+| 2018 Feb. | Software Tools for Mathematis, SageDays'97 workshop  (FAMNIT, UP)                                     |
+| 2018 Feb. | Fachgebiet Diskrete Mathematik und Grundlagen der Informatik (B-TU Cottbus)                           |
+| 2017 Nov. | Computer Laboratory (University of Cambridge)                                                         |
+| 2017 Oct. | Oberseminar Arbeitsbereich ART, Fachbereich Informatik,  (Universität Hamburg)                        |
+| 2016 Jun. | Efficient Algorithms Group, Fachbereich  Computerwissenschaften (Paris Lodron University of Salzburg) |
+| 2016 Apr. | Department of Information Science and Technologies, FAMNIT (UP)                                       |
+| 2016 Apr. | Department of Mathematics, FAMNIT (UP)                                                                |
+| 2015 Apr. | Artificial Intelligence Laboratory (Joseph Stefan Institute)                                          |
+| 2015 Feb. | Artificial Intelligence Laboratory (Joseph Stefan Institute)                                          |
+| 2015 Jan. | Department of Mathematics, FAMNIT (UP)                                                                |
+| 2014 Dec. | Seminar for Graph Theory and Algorithms, Faculty of  Mathematics and Physics (UL)                     |
+| 2014 Mar. | Artificial Intelligence Laboratory (Joseph Stefan Institute)                                          |
+| 2013 Dec. | Seminar for Graph Theory and Algorithms, Faculty of  Mathematics and Physics (UL)                     |
+| 2013 Jan. | Seminar for Graph Theory and Algorithms, Faculty of  Mathematics and Physics (UL)                     |
+| 2011 Oct. | Seminar for Graph Theory and Algorithms, Faculty of Mathematics and Physics (UL)                      |
+| 2010 Oct. | Department of Mathematics, Faculty of Applied Sciences (University of West Bohemia)                   |
 
 ### Organised events:
 
-\* OC member only
 
 | Year           | Event                                                                                                | Webpage                                                       |
 | :------------- | :--------------------------------------------------------------------------------------------------- | :------------------------------------------------------------ |
-| 2021 Sep.      | GROW 2021* : The Workshop on Graph Classes, Optimization and Width Parameters, Koper, Slovenia       | [grow2021.famnit.upr.si](http://grow2021.famnit.upr.si)       |
-| 2019&nbsp;Oct. | MATCOS 2019* :  Middle-European Conference on Applied Theoretical Computer  Science, Koper, Slovenia | [matcos.iam.upr.si](http://matcos.iam.upr.si)                 |
-| 2019&nbsp;Oct. | StuCoSReC 2019 - The 6th Student Computer   Science Research Conference 2019, Koper, Slovenia        | [stucosrec.feri.um.si/2019](http://stucosrec.feri.um.si/2019) |
-| 2018&nbsp;Feb. | Software Tools for Mathematis, SageDays'97   workshop, Koper, Slovenia                               | [stm.famnit.upr.si](http://stm.famnit.upr.si)                 |
+| 2022 Oct. | MATCOS 2022 :  Middle-European Conference on Applied Theoretical Computer  Science, Koper, Slovenia | [matcos.iam.upr.si](http://matcos.iam.upr.si)   
+| 2021 Sep.      | GROW 2022 : The Workshop on Graph Classes, Optimization and Width Parameters, Koper, Slovenia       | [grow.famnit.upr.si](http://grow2021.famnit.upr.si)       |
+| 2019 Oct. | MATCOS 2019 :  Middle-European Conference on Applied Theoretical Computer  Science, Koper, Slovenia | [matcos.iam.upr.si](http://matcos.iam.upr.si)                 |
+| 2019 Oct. | StuCoSReC 2019 - The 6th Student Computer   Science Research Conference 2019, Koper, Slovenia        | [stucosrec.feri.um.si/2019](http://stucosrec.feri.um.si/2019) |
+| 2018 Feb. | Software Tools for Mathematis, SageDays'97   workshop, Koper, Slovenia                               | [stm.famnit.upr.si](http://stm.famnit.upr.si)                 |
 
 ### Thesis Supervision
 
@@ -191,6 +191,6 @@ Zelealem Yilma.
 | Mikita Akulich* | MSc | ongoing |
 | Ina Bašič       | BSc | ongoing |
 
-\* co-advisor only
+\* co-advisor
 
 Please find your topic [here](topics.pdf).

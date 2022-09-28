@@ -208,21 +208,59 @@ Year|Institution
 
 I have had pleasure doing research (a week or more) with
 
-Jernej Azarija, Vesna Andova, Mikita Akulich (MSc. student), Nino 
-Bašič, Gregor Bankhamer, Jesse Beisegel, Petra Berenbrink, Marthe 
-Bonamy, Nina Chiarelli, Clément Dallard, Andreas Darmann, Carolin 
-Denkert, Zdenek Dvorak, Robert Elsaesser, Rok Erman, Robert Ganian
-Vladimir Gurvich, Frederic Havet, Meike Hatzel, 
-Tomas Kaiser, Dominik Kaaser, Frantisek 
-Kardos, Lukasz Kowalik, Peter Kling, Nina Klobas (MSc. student), 
-Ekkehard Köhler, Daniel Kráľ, Martin Kupec, Anita Liebenau, Borut 
-Lužar, Martin Milanič, Martina Mockovciakova, Peter Muršič, Sarka 
-Petrickova, Ulrik Pferschy, Tomaž Pisanski, Nevena Pivač (MSc. 
-student), Nicolás Rivera, Ondrej Rucky, Thomas Sauerwald, Joachim 
-Schauer, Robert Scheffler, Jean-Sebastien Sereni, Ladislav 
-Stacho, Martin Strehler, John Sylvester, Riste Škrekovski, Jan 
-Volec, Misha Vyalyi, Tomasz Walen, Robin J Wilson, Zelealem Yilma.
-
+Jernej Azarija, 
+Vesna Andova, 
+Nino Bašič, 
+Gregor Bankhamer, 
+Jesse Beisegel, 
+Petra Berenbrink, 
+Marthe Bonamy, 
+Nina Chiarelli, 
+Clément Dallard, 
+Andreas Darmann, 
+Carolin Denkert, 
+Zdenek Dvorak, 
+Robert Elsaesser, 
+Rok Erman, 
+Robert Ganian,
+Frederik Garbe,
+Vladimir Gurvich, 
+Robert Hancock,
+Meike Hatzel, 
+Frederic Havet, 
+Tomas Kaiser, 
+Dominik Kaaser, 
+Frantisek Kardos, 
+Lukasz Kowalik, 
+Peter Kling, 
+Ekkehard Köhler, 
+Daniel Kráľ, 
+Martin Kupec, 
+Anita Liebenau, 
+Borut Lužar, 
+Martin Milanič, 
+Martina Mockovciakova, 
+Samuel Mohr,
+Peter Muršič, 
+Vít Musil,
+Sarka Petrickova, 
+Ulrik Pferschy, 
+Tomaž Pisanski, 
+Nicolás Rivera, 
+Ondrej Rucky, 
+Thomas Sauerwald, 
+Joachim Schauer, 
+Robert Scheffler, 
+Jean-Sebastien Sereni, 
+Ladislav Stacho, 
+Martin Strehler, 
+John Sylvester, 
+Riste Škrekovski, 
+Jan Volec, 
+Misha Vyalyi, 
+Tomasz Walen, 
+Robin J Wilson, 
+Zelealem Yilma.
 # Organised events:
 \* OC member only
 Year|Event|Webpage
