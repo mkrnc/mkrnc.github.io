@@ -5,33 +5,18 @@
 - phone: +386 (0)5 611 76 53
 
 
-### Publications
-
-Over 80 citations according to WoS, over 110 citations according to Scopus, and over 220 citations according to [Google Scholar](https://bit.ly/Krnc-Scholar).
-For a [publication list](./pubs.md) please [refer](./dblp_publications) to the [Cobiss database](https://goo.gl/FBSSLJ). 
-
-
 ### Research interests:
 
 - structural and algorithmic graph theory
 - extremal graph theory, combinatorial limits
-- randomised distributed processes
+- population protocols, distributed consensus
 
 
-**Reviewer for:**
-Mathematical Reviews,
-SIAM Journal on Discrete Mathematics,
-Journal of Graph Theory, 
-Discrete Mathematics,
-Discrete Applied Mathematics,
-Asian-European Journal of Mathematics,
-Graphs and Combinatorics,
-Mathematical Methods of Operations Research,
-RAIRO - Theoretical Informatics and Applications,
-Discussiones Mathematicae Graph Theory,
-Mathematica Bohemica.
+### Publications
 
-**Reviewer for conferences:** LAGOS 2019, SPAA 2019, MFCS 2019, FCT 2017.
+See my publications in [DBLP](./dblp_publications.html), [Google Scholar](https://bit.ly/Krnc-Scholar), or [COBISS](https://goo.gl/FBSSLJ) database.
+
+
 
 ### Current and previous positions
 
@@ -144,17 +129,23 @@ Zelealem Yilma.
 
 (*funded by ARRS bilateral projects)
 
-### Invited (mostly seminar) talks
+### Seminar talks, public talks, workshop minicourses
 
 | Year           | Institution                                                                                           |
 | :------------- | :---------------------------------------------------------------------------------------------------- |
+
+| 2023 Mar.      | Masaryk University, Brno, Czech                                                                       |
+| 2023 Mar.      | Fachgebiet Diskrete Mathematik und Grundlagen der Informatik (B-TU Cottbus)                           |
+| 2022 Aug.      | ORADA (Computer Science Summer School at UP FAMNIT)        |
 | 2020 Mar.      | Masaryk University, Brno, Czech                                                                       |
 | 2020 Feb.      | Fachgebiet Diskrete Mathematik und Grundlagen der Informatik (B-TU Cottbus)                           |
 | 2019 Nov. | Open University, Milton Keynes, United Kingdom                                                        |
 | 2019 Aug. | National Research University Higher School of Economics,  Faculty of Computer Science, Moscow         |
-| 2019 May  | FIN-TECH Risk management workshop on Blockchains (Joseph  Stefan Institute)                           |
+| 2019 May. | FIN-TECH Risk management workshop on Blockchains (Joseph  Stefan Institute)                           |
+| 2019 Jan. | Matematični dan (public lecture, UP FAMNIT) 
 | 2018 Dec. | Department of Mathematics, FAMNIT (UP)                                                                |
-| 2018 Feb. | Software Tools for Mathematis, SageDays'97 workshop  (FAMNIT, UP)                                     |
+| 2018 Aug. | Matematika je kul (Summer school for mathematics, UP FAMNIT)                                          | 
+| 2018 Feb. | Software Tools for Mathematis, SageDays'97 workshop  (UP FAMNIT)                                     |
 | 2018 Feb. | Fachgebiet Diskrete Mathematik und Grundlagen der Informatik (B-TU Cottbus)                           |
 | 2017 Nov. | Computer Laboratory (University of Cambridge)                                                         |
 | 2017 Oct. | Oberseminar Arbeitsbereich ART, Fachbereich Informatik,  (Universität Hamburg)                        |
