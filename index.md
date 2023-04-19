@@ -13,7 +13,7 @@
 ### Publications
 
 Over 80 citations according to WoS, over 110 citations according to Scopus, and over 220 citations according to [Google Scholar](https://bit.ly/Krnc-Scholar).
-For a publication list please refer to the [Cobiss database](https://goo.gl/FBSSLJ).
+For a [publication list](pubs.md) please refer to the [Cobiss database](https://goo.gl/FBSSLJ). 
 
 **Reviewer for:**
 Mathematical Reviews,
