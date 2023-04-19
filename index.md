@@ -4,16 +4,19 @@
 - office: I/2-2 (Galeb)
 - phone: +386 (0)5 611 76 53
 
+
+### Publications
+
+Over 80 citations according to WoS, over 110 citations according to Scopus, and over 220 citations according to [Google Scholar](https://bit.ly/Krnc-Scholar).
+For a [publication list](./pubs.md) please [refer](./dblp_publications) to the [Cobiss database](https://goo.gl/FBSSLJ). 
+
+
 ### Research interests:
 
 - structural and algorithmic graph theory
 - extremal graph theory, combinatorial limits
 - randomised distributed processes
 
-### Publications
-
-Over 80 citations according to WoS, over 110 citations according to Scopus, and over 220 citations according to [Google Scholar](https://bit.ly/Krnc-Scholar).
-For a [publication list](./pubs.md) please [refer](./dblp_publications) to the [Cobiss database](https://goo.gl/FBSSLJ). 
 
 **Reviewer for:**
 Mathematical Reviews,
