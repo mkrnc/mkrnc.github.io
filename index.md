@@ -31,7 +31,6 @@ See my publications in [DBLP](./dblp_publications.html), [Google Scholar](https:
 | 2011–2015                      | Young Researcher                          | Institute of Mathematics, Physics and Mechanics (Ljubljana)                                     |
 
 ### Education
-
 |           |                                                                                                                  |                                                                               |                         |
 | :-------- | :--------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------- | :---------------------- |
 | 2006–2011 | BSc. and MSc. equiv. at Interdisciplinary Study of Computer Science and Mathematics (title: _Fullerene Graphs._) | Graduated with dean’s distinction; mean grade 9.4; advisor: Riste Škrekovski  | University of Ljubljana |
@@ -133,7 +132,6 @@ Zelealem Yilma.
 
 | Year           | Institution                                                                                           |
 | :------------- | :---------------------------------------------------------------------------------------------------- |
-
 | 2023 Mar.      | Masaryk University, Brno, Czech                                                                       |
 | 2023 Mar.      | Fachgebiet Diskrete Mathematik und Grundlagen der Informatik (B-TU Cottbus)                           |
 | 2022 Aug.      | ORADA (Computer Science Summer School at UP FAMNIT)        |
