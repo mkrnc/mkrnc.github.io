@@ -186,3 +186,7 @@ Zelealem Yilma.
 \* co-advisor
 
 Please find your topic [here](topics.pdf).
+
+## Publications
+
+<script src="https://bibbase.org/show?bib=https://dblp.org/pid/17/7594.bib&jsonp=1&groupBy=Type"></script>
