@@ -16,6 +16,7 @@
 
 ### Current and previous positions
 
+|-|-|-|
 | 2022–Present                   | Associate Professor                       | Faculty of Mathematics, Natural Sciences and Information Technologies (University of Primorska) |
 | 2016–2021                      | Docent (Assistant Professor)              | Faculty of Mathematics, Natural Sciences and Information Technologies (University of Primorska) |
 | Sept.;2016–Feb. 2018           | Postdoc with prof. Robert Elsaesser       | Efficient Algorithms Group (Salzburg University)                                                |
@@ -26,6 +27,7 @@
 
 ### Education
 
+|-|-|-|
 | 2006–2011 | BSc. and MSc. equiv. at Interdisciplinary Study of Computer Science and Mathematics (title: _Fullerene Graphs._) | Graduated with dean’s distinction; mean grade 9.4; advisor: Riste Škrekovski  | University of Ljubljana |
 | 2011–2015 | PhD in Mathematics (title: _Centrality Measures in Large Networks_)                                              | Graduated with rector’s distinction; mean grade 10; advisor: Riste Škrekovski | University of Ljubljana |
 
