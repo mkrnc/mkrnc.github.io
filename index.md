@@ -21,10 +21,10 @@ See my publications in [DBLP](./dblp_publications.html), [Google Scholar](https:
 ### Current and previous positions
 
 | Time                           | Position                                  | Affiliation                                                                                     |
-| :----------------------------- | :---------------------------------------- | :---------------------------------------------------------------------------------------------- |
+|--------------------------------|-------------------------------------------|---------------------------------------------------------------------------------------------- |
 | 2022–Present                   | Associate Professor                       | Faculty of Mathematics, Natural Sciences and Information Technologies (University of Primorska) |
 | 2016–2021                      | Docent (Assistant Professor)              | Faculty of Mathematics, Natural Sciences and Information Technologies (University of Primorska) |
-| Sept.;2016–Feb. 2018 | Postdoc with prof. Robert Elsaesser       | Efficient Algorithms Group (Salzburg University)                                                |
+| Sept.;2016–Feb. 2018           | Postdoc with prof. Robert Elsaesser       | Efficient Algorithms Group (Salzburg University)                                                |
 | 2015–2016                      | Teaching Assistant                        | Faculty of Mathematics, Natural Sciences and Information Technologies (University of Primorska) |
 | 2013;Sep.–Dec.            | Student internship with prof. Daniel Kral | Centre for Discrete Mathematics and its Applications (University of Warwick)                    |
 | 2011–2015                      | Teaching Assistant and PhD student        | Faculty of Mathematics and Physics (University of Ljubljana)                                    |
@@ -165,6 +165,7 @@ Zelealem Yilma.
 
 | Year           | Event                                                                                                | Webpage                                                       |
 | :------------- | :--------------------------------------------------------------------------------------------------- | :------------------------------------------------------------ |
+| 2023 Oct. | SCORES 2023 - 9th Student Computing Research Symposium, Koper, Slovenia        | [www.scores.si]8https://www.scores.si/)|
 | 2022 Oct. | MATCOS 2022 :  Middle-European Conference on Applied Theoretical Computer  Science, Koper, Slovenia | [matcos.iam.upr.si](http://matcos.iam.upr.si)   
 | 2021 Sep.      | GROW 2022 : The Workshop on Graph Classes, Optimization and Width Parameters, Koper, Slovenia       | [grow.famnit.upr.si](http://grow2021.famnit.upr.si)       |
 | 2019 Oct. | MATCOS 2019 :  Middle-European Conference on Applied Theoretical Computer  Science, Koper, Slovenia | [matcos.iam.upr.si](http://matcos.iam.upr.si)                 |
@@ -180,8 +181,8 @@ Zelealem Yilma.
 | Nina Klobas     | MSc | 2020    |
 | Nevena Pivač    | MSc | 2020    |
 | Đorđe Klisura   | BSc | 2020    |
+| Ina Bašič       | BSc | 2023 |
 | Mikita Akulich* | MSc | ongoing |
-| Ina Bašič       | BSc | ongoing |
 
 \* co-advisor
 
