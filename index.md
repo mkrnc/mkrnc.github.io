@@ -12,16 +12,10 @@
 - population protocols, distributed consensus
 
 
-### Publications
-
-See my publications in [DBLP](./dblp_publications.html), [Google Scholar](https://bit.ly/Krnc-Scholar), or [COBISS](https://goo.gl/FBSSLJ) database.
-
 
 
 ### Current and previous positions
 
-| Time                           | Position                                  | Affiliation                                                                                     |
-|--------------------------------|-------------------------------------------|---------------------------------------------------------------------------------------------- |
 | 2022–Present                   | Associate Professor                       | Faculty of Mathematics, Natural Sciences and Information Technologies (University of Primorska) |
 | 2016–2021                      | Docent (Assistant Professor)              | Faculty of Mathematics, Natural Sciences and Information Technologies (University of Primorska) |
 | Sept.;2016–Feb. 2018           | Postdoc with prof. Robert Elsaesser       | Efficient Algorithms Group (Salzburg University)                                                |
@@ -31,8 +25,7 @@ See my publications in [DBLP](./dblp_publications.html), [Google Scholar](https:
 | 2011–2015                      | Young Researcher                          | Institute of Mathematics, Physics and Mechanics (Ljubljana)                                     |
 
 ### Education
-|           |                                                                                                                  |                                                                               |                         |
-| :-------- | :--------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------- | :---------------------- |
+
 | 2006–2011 | BSc. and MSc. equiv. at Interdisciplinary Study of Computer Science and Mathematics (title: _Fullerene Graphs._) | Graduated with dean’s distinction; mean grade 9.4; advisor: Riste Škrekovski  | University of Ljubljana |
 | 2011–2015 | PhD in Mathematics (title: _Centrality Measures in Large Networks_)                                              | Graduated with rector’s distinction; mean grade 10; advisor: Riste Škrekovski | University of Ljubljana |
 
@@ -109,24 +102,7 @@ Zelealem Yilma.
 | 2013        | Ad-futura mobility grant for PhD students, for research visit to Warwick University  |
 | 2011 - 2015 | Young researcher PhD position at the Institute for Mathematics, Physics and Mechanics (University of Ljubljana)                      |
 
-### Research visits
 
-- INRIA, Sophia Antipolis, France*
-- University of West Bohemia, Pilsen, Czech*
-- Charles University, Prague, Czech*
-- Pavol Jozef Šafárik University in Košice, Slovakia*
-- Institute of Informatics, Warsaw University, Pollan*
-- Faculty of Civil Engineering, University of Zagreb, Croatia*
-- LIAFA (CNRS), Université Paris Diderot, Franc*
-- Fachbereich Informatik, Universität Hamburg, Germany
-- Computer Laboratory, Cambridge, UK
-- Brandenburgische Technische Universität, Cottbus, Germany*
-- Karl-Franzens-Universität Graz, Austria*
-- National Research University Higher School of Economics, Faculty of Computer Science, Moscow*
-- Open University, Milton Keynes, United Kingdom
-- Masaryk University, Brno, Czech
-
-(*funded by ARRS bilateral projects)
 
 ### Seminar talks, public talks, workshop minicourses
 
@@ -160,12 +136,40 @@ Zelealem Yilma.
 | 2011 Oct. | Seminar for Graph Theory and Algorithms, Faculty of Mathematics and Physics (UL)                      |
 | 2010 Oct. | Department of Mathematics, Faculty of Applied Sciences (University of West Bohemia)                   |
 
+
+### Publications
+
+See my publications in [DBLP](./dblp_publications.html), [Google Scholar](https://bit.ly/Krnc-Scholar), or [COBISS](https://goo.gl/FBSSLJ) database.
+
+<script src="https://bibbase.org/show?bib=https://dblp.org/pid/17/7594.bib&jsonp=1&groupBy=Type"></script>
+
+
+
+### Research visits
+
+- INRIA, Sophia Antipolis, France*
+- University of West Bohemia, Pilsen, Czech*
+- Charles University, Prague, Czech*
+- Pavol Jozef Šafárik University in Košice, Slovakia*
+- Institute of Informatics, Warsaw University, Pollan*
+- Faculty of Civil Engineering, University of Zagreb, Croatia*
+- LIAFA (CNRS), Université Paris Diderot, Franc*
+- Fachbereich Informatik, Universität Hamburg, Germany
+- Computer Laboratory, Cambridge, UK
+- Brandenburgische Technische Universität, Cottbus, Germany*
+- Karl-Franzens-Universität Graz, Austria*
+- National Research University Higher School of Economics, Faculty of Computer Science, Moscow*
+- Open University, Milton Keynes, United Kingdom
+- Masaryk University, Brno, Czech
+
+(*funded by ARRS bilateral projects)
+
 ### Organised events:
 
 
 | Year           | Event                                                                                                | Webpage                                                       |
 | :------------- | :--------------------------------------------------------------------------------------------------- | :------------------------------------------------------------ |
-| 2023 Oct. | SCORES 2023 - 9th Student Computing Research Symposium, Koper, Slovenia        | [www.scores.si]8https://www.scores.si/)|
+| 2023 Oct. | SCORES 2023 - 9th Student Computing Research Symposium, Koper, Slovenia        | [www.scores.si](https://www.scores.si/)|
 | 2022 Oct. | MATCOS 2022 :  Middle-European Conference on Applied Theoretical Computer  Science, Koper, Slovenia | [matcos.iam.upr.si](http://matcos.iam.upr.si)   
 | 2021 Sep.      | GROW 2022 : The Workshop on Graph Classes, Optimization and Width Parameters, Koper, Slovenia       | [grow.famnit.upr.si](http://grow2021.famnit.upr.si)       |
 | 2019 Oct. | MATCOS 2019 :  Middle-European Conference on Applied Theoretical Computer  Science, Koper, Slovenia | [matcos.iam.upr.si](http://matcos.iam.upr.si)                 |
@@ -187,7 +191,3 @@ Zelealem Yilma.
 \* co-advisor
 
 Please find your topic [here](topics.pdf).
-
-## Publications
-
-<script src="https://bibbase.org/show?bib=https://dblp.org/pid/17/7594.bib&jsonp=1&groupBy=Type"></script>
