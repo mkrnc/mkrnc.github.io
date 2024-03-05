@@ -112,7 +112,9 @@ Zelealem Yilma.
 
 | Year           | Institution                                                                                           |
 | :------------- | :---------------------------------------------------------------------------------------------------- |
-| 2023 Mar.      | Masaryk University, Brno, Czech                                                                       |
+| 2024 Feb. | Rhodes College, Tennessee, USA|
+| 2024 Feb. | Institute of Combinatorics, University of Memphis, USA|
+| 2023 Mar.  | Masaryk University, Brno, Czech          |
 | 2023 Mar.      | Fachgebiet Diskrete Mathematik und Grundlagen der Informatik (B-TU Cottbus)                           |
 | 2022 Aug.      | ORADA (Computer Science Summer School at UP FAMNIT)        |
 | 2020 Mar.      | Masaryk University, Brno, Czech                                                                       |
