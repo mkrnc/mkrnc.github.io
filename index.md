@@ -14,6 +14,14 @@
 
 
 
+### Publications
+
+See my publications in [DBLP](./dblp_publications.html), [Google Scholar](https://bit.ly/Krnc-Scholar), or [COBISS](https://goo.gl/FBSSLJ) database.
+
+<script src="https://bibbase.org/show?bib=https://dblp.org/pid/17/7594.bib&jsonp=1&groupBy=Type"></script>
+
+
+
 ### Current and previous positions
 
 |Time|Position|Institution|
@@ -115,6 +123,7 @@ Zelealem Yilma.
 
 | Year           | Institution                                                                                           |
 | :------------- | :---------------------------------------------------------------------------------------------------- |
+| 2024 May | Fachgebiet Diskrete Mathematik und Grundlagen der Informatik (B-TU Cottbus)  |
 | 2024 Feb. | Rhodes College, Tennessee, USA|
 | 2024 Feb. | Institute of Combinatorics, University of Memphis, USA|
 | 2023 Mar.  | Masaryk University, Brno, Czech          |
@@ -144,14 +153,6 @@ Zelealem Yilma.
 | 2013 Jan. | Seminar for Graph Theory and Algorithms, Faculty of  Mathematics and Physics (UL)                     |
 | 2011 Oct. | Seminar for Graph Theory and Algorithms, Faculty of Mathematics and Physics (UL)                      |
 | 2010 Oct. | Department of Mathematics, Faculty of Applied Sciences (University of West Bohemia)                   |
-
-
-### Publications
-
-See my publications in [DBLP](./dblp_publications.html), [Google Scholar](https://bit.ly/Krnc-Scholar), or [COBISS](https://goo.gl/FBSSLJ) database.
-
-<script src="https://bibbase.org/show?bib=https://dblp.org/pid/17/7594.bib&jsonp=1&groupBy=Type"></script>
-
 
 
 ### Research visits
@@ -196,6 +197,7 @@ See my publications in [DBLP](./dblp_publications.html), [Google Scholar](https:
 | Đorđe Klisura   | BSc | 2020    |
 | Ina Bašič       | BSc | 2023 |
 | Mikita Akulich* | MSc | ongoing |
+| Ina Bašič       | MSc | ongoing |
 
 \* co-advisor
 
