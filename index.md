@@ -13,11 +13,11 @@
 - combinatorial game theory
 - population protocols, distributed consensus
 
-### Useful resources 
-Here are [some good-to-know tips, for graduate students who wish to explore the world of mathematics](https://mathweb.ucsd.edu/~fan/teach/gradpol.html) from Fan Chung's website, see also her [guide to math bullies](https://mathweb.ucsd.edu/~fan/teach/add.htm).
-
 ### Considering doing the thesis under my supervision?
 Think about the area of math/CS you are  passionate about, then email me and we will meet. 
+
+### Useful resources (Fan Chung's website)
+Here are [some good-to-know tips](./graduate.html) for graduate students who wish to explore the world of mathematics, and an overview of the Hardy-Littlewood collaboration rule that I support, together with [guide to math bullies](https://mathweb.ucsd.edu/~fan/teach/add.htm).
 
 ### Publications
 
