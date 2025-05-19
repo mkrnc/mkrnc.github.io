@@ -17,7 +17,7 @@
 Think about the area of math/CS you are  passionate about, then email me and we will meet. 
 
 ### Useful resources (Fan Chung's website)
-Here are [some good-to-know tips](./graduate.html) for graduate students who wish to explore the world of mathematics, and an overview of the Hardy-Littlewood collaboration rule that I support, together with [guide to math bullies](https://mathweb.ucsd.edu/~fan/teach/add.htm).
+Here are [some good-to-know tips](./graduate.html) for graduate students who wish to explore the world of mathematics, and an overview of the [Hardy-Littlewood collaboration rule](./hardy-littlewood.html) that I support, together with [guide to math bullies](https://mathweb.ucsd.edu/~fan/teach/add.htm).
 
 ### Publications
 
