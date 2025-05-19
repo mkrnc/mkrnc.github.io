@@ -3,30 +3,35 @@
 - email: matjaz.krnc@upr.si
 - office: I/2-2 (Galeb)
 - phone: +386 (0)5 611 76 53
-
-
-
-
-### Publications
-
-See my publications in [DBLP](./dblp_publications.html), [Google Scholar](https://bit.ly/Krnc-Scholar), or [COBISS](https://goo.gl/FBSSLJ) database.
-
-<script src="https://bibbase.org/show?bib=https://dblp.org/pid/17/7594.bib&jsonp=1&groupBy=Type"></script>
-
+- telegram: @mkrnc
 
 
 ### Research interests:
 
 - structural and algorithmic graph theory
 - extremal graph theory, combinatorial limits
-- population protocols, distributed consensus
 - combinatorial game theory
+- population protocols, distributed consensus
+
+### Useful resources 
+Here are [some good-to-know tips, for graduate students who wish to explore the world of mathematics](https://mathweb.ucsd.edu/~fan/teach/gradpol.html) from Fan Chung's website, see also her [guide to math bullies](https://mathweb.ucsd.edu/~fan/teach/add.htm).
+
+### Considering doing the thesis under my supervision?
+Think about the area of math/CS you are  passionate about, then email me and we will meet. 
+
+### Publications
+
+See my publications in [DBLP](./dblp_publications.html), or [Google Scholar](https://bit.ly/Krnc-Scholar), or below.
+
+<script src="https://bibbase.org/show?bib=https://dblp.org/pid/17/7594.bib&jsonp=1&groupBy=Type"></script>
+
 
 
 ### Seminar talks, public talks, workshop minicourses
 
 | Year           | Institution                                                                                           |
 | :------------- | :---------------------------------------------------------------------------------------------------- |
+| 2025 Apr. | FAMNIT math seminar |
 | 2024 May | Fachgebiet Diskrete Mathematik und Grundlagen der Informatik (B-TU Cottbus)  |
 | 2024 Feb. | Rhodes College, Tennessee, USA|
 | 2024 Feb. | Institute of Combinatorics, University of Memphis, USA|
@@ -61,17 +66,17 @@ See my publications in [DBLP](./dblp_publications.html), [Google Scholar](https:
 
 ### Research visits
 
-- INRIA, Sophia Antipolis, France*
-- University of West Bohemia, Pilsen, Czech*
-- Charles University, Prague, Czech*
-- Pavol Jozef Šafárik University in Košice, Slovakia*
-- Institute of Informatics, Warsaw University, Pollan*
-- Faculty of Civil Engineering, University of Zagreb, Croatia*
-- LIAFA (CNRS), Université Paris Diderot, Franc*
+- INRIA, Sophia Antipolis, France
+- University of West Bohemia, Pilsen, Czech
+- Charles University, Prague, Czech
+- Pavol Jozef Šafárik University in Košice, Slovakia
+- Institute of Informatics, Warsaw University, Pollan
+- Faculty of Civil Engineering, University of Zagreb, Croatia
+- LIAFA (CNRS), Université Paris Diderot, Franc
 - Fachbereich Informatik, Universität Hamburg, Germany
 - Computer Laboratory, Cambridge, UK
 - Brandenburgische Technische Universität, Cottbus, Germany*
-- Karl-Franzens-Universität Graz, Austria*
+- Karl-Franzens-Universität Graz, Austria
 - National Research University Higher School of Economics, Faculty of Computer Science, Moscow*
 - Open University, Milton Keynes, United Kingdom
 - Masaryk University, Brno, Czech
@@ -80,7 +85,7 @@ See my publications in [DBLP](./dblp_publications.html), [Google Scholar](https:
 - University of Memphis, Tennessee, US
 - Rutgers University, New Jersey, US
 
-(*funded by ARRS bilateral projects)
+
 
 ### Organised events:
 
@@ -88,7 +93,7 @@ See my publications in [DBLP](./dblp_publications.html), [Google Scholar](https:
 | Year           | Event                                                                                                | Webpage                                                       |
 | :------------- | :--------------------------------------------------------------------------------------------------- | :------------------------------------------------------------ |
 | 2023 Oct. | SCORES 2023 - 9th Student Computing Research Symposium, Koper, Slovenia        | [www.scores.si](https://www.scores.si/)|
-| 2022 Oct. | MATCOS 2022 :  Middle-European Conference on Applied Theoretical Computer  Science, Koper, Slovenia | [matcos.iam.upr.si](http://matcos.iam.upr.si)   
+| 2022 Oct. | MATCOS 2022 :  Middle-European Conference on Applied Theoretical Computer  Science, Koper, Slovenia | [matcos.iam.upr.si](http://matcos.iam.upr.si)   |
 | 2021 Sep.      | GROW 2022 : The Workshop on Graph Classes, Optimization and Width Parameters, Koper, Slovenia       | [grow.famnit.upr.si](http://grow2021.famnit.upr.si)       |
 | 2019 Oct. | MATCOS 2019 :  Middle-European Conference on Applied Theoretical Computer  Science, Koper, Slovenia | [matcos.iam.upr.si](http://matcos.iam.upr.si)                 |
 | 2019 Oct. | StuCoSReC 2019 - The 6th Student Computer   Science Research Conference 2019, Koper, Slovenia        | [stucosrec.feri.um.si/2019](http://stucosrec.feri.um.si/2019) |
@@ -127,6 +132,7 @@ Robert Elsaesser,
 Rok Erman, 
 Robert Ganian,
 Frederik Garbe,
+Pascal Gollin,
 Eric Gottlieb,
 Vladimir Gurvich, 
 Robert Hancock,
@@ -144,6 +150,7 @@ Martin Kupec,
 Ander Lamaison,
 Anita Liebenau, 
 Borut Lužar, 
+Aljoscha Mayer,
 Martin Milanič, 
 Martina Mockovciakova, 
 Samuel Mohr,
@@ -151,6 +158,7 @@ Peter Muršič,
 Vít Musil,
 Sarka Petrickova, 
 Ulrik Pferschy, 
+Michał Pilipczuk,
 Tomaž Pisanski, 
 Nicolás Rivera, 
 Ondrej Rucky, 
@@ -179,7 +187,7 @@ Zelealem Yilma.
 | 2016–2021                      | Docent (Assistant Professor)              | Faculty of Mathematics, Natural Sciences and Information Technologies (University of Primorska) |
 | Sept.;2016–Feb. 2018           | Postdoc with prof. Robert Elsaesser       | Efficient Algorithms Group (Salzburg University)                                                |
 | 2015–2016                      | Teaching Assistant                        | Faculty of Mathematics, Natural Sciences and Information Technologies (University of Primorska) |
-| 2013;Sep.–Dec.                | Student internship with prof. Daniel Kral | Centre for Discrete Mathematics and its Applications (University of Warwick)                    |
+| 2013;Sep.–Dec.                 | Student internship with prof. Daniel Kral | Centre for Discrete Mathematics and its Applications (University of Warwick)                    |
 | 2011–2015                      | Teaching Assistant and PhD student        | Faculty of Mathematics and Physics (University of Ljubljana)                                    |
 | 2011–2015                      | Young Researcher                          | Institute of Mathematics, Physics and Mechanics (Ljubljana)                                     |
 
@@ -197,5 +205,4 @@ Zelealem Yilma.
 | 2011 - 2015 | Young researcher PhD position at the Institute for Mathematics, Physics and Mechanics (University of Ljubljana)                      |
 
 
-### Considering doing the thesis under my supervision?
-Think about the area of math/CS you are  passionate about, then email me and we will meet. 
+
