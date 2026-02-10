@@ -22,25 +22,40 @@ Are you considering writing a thesis under my supervision? Please identify an ar
 - [The Hardy-Littlewood Collaboration Rule](./hardy-littlewood.html) - An overview of the collaboration ethos I support.
 
 ### Publications
+
 {% assign publications = site.data.publications %}
 {% assign pubs_by_year = publications | group_by: "year" %}
 
 {% for year in pubs_by_year %}
-  #### {{ year.name }}
+  <h3 class="archive__subtitle">{{ year.name }}</h3>
+  
   {% for pub in year.items %}
-  * **{{ pub.title }}**
-    <br>
-    <small>
-    {{ pub.author }}
-    {% if pub.journal %}— <em>{{ pub.journal }}</em>{% endif %}
-    {% if pub.booktitle %}— <em>{{ pub.booktitle }}</em>{% endif %}
-    [<a href="{{ pub.url }}">DBLP</a>]
-    </small>
+    <article class="archive__item" style="margin-bottom: 1em;">
+      <h4 class="archive__item-title" style="margin-bottom: 0px; font-size: 1em;">
+        {{ pub.title }}
+      </h4>
+      
+      <div class="archive__item-excerpt" style="font-size: 0.85em; margin-top: 2px;">
+        <span style="color: #666;">
+          {{ pub.author | replace: " and ", ", " }}
+        </span>
+        <br>
+        {% if pub.journal %}
+          <i>{{ pub.journal }}</i>
+        {% elsif pub.booktitle %}
+          <i>{{ pub.booktitle }}</i>
+        {% endif %}
+        
+        &nbsp;[<a href="{{ pub.url }}">DBLP</a>]
+        {% if pub.ee %} [<a href="{{ pub.ee }}">PDF</a>] {% endif %}
+      </div>
+    </article>
   {% endfor %}
 {% endfor %}
 
-*Full lists available on [DBLP](./dblp_publications.html) or [Google Scholar](https://bit.ly/Krnc-Scholar).*
-
+<div style="margin-top: 2em; font-size: 0.8em; color: #888;">
+  Full lists available on <a href="./dblp_publications.html">DBLP</a> or <a href="https://bit.ly/Krnc-Scholar">Google Scholar</a>.
+</div>
 ---
 
 ### Academic Positions
