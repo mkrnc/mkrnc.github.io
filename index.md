@@ -21,35 +21,106 @@ Are you considering writing a thesis under my supervision? Please identify an ar
 - [Tips for Graduate Students](./graduate.html) - For those wishing to explore the world of mathematics.
 - [The Hardy-Littlewood Collaboration Rule](./hardy-littlewood.html) - An overview of the collaboration ethos I support.
 
+<style>
+  /* 1. Make links and accents Dark Green */
+  a { color: #1b4d3e; }
+  a:hover { color: #2e8b57; }
+  
+  /* 2. The Grid Layout (Table-like alignment) */
+  .pub-row {
+    display: grid;
+    /* Columns: Year (40px) | Authors (180px) | Title (Auto) */
+    grid-template-columns: 40px 180px auto; 
+    gap: 20px;
+    align-items: baseline;
+    padding: 12px 0; /* More vertical space */
+    border-bottom: 1px solid #eee;
+    font-size: 0.9em; /* Smaller text */
+  }
+
+  /* 3. Column Styling */
+  .pub-year {
+    color: #999;
+    font-size: 0.85em;
+  }
+  
+  .pub-authors {
+    color: #555;
+    /* Optional: Cut off long author lists with "..." to keep alignment strict */
+    white-space: nowrap; 
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .pub-title {
+    color: #222;
+    font-weight: normal; /* No boldface */
+    cursor: pointer;
+  }
+  
+  /* Mobile: Stack them instead of table */
+  @media screen and (max-width: 700px) {
+    .pub-row { grid-template-columns: 1fr; gap: 4px; }
+    .pub-authors { white-space: normal; }
+  }
+</style>
 
 ### Publications
 
 {% assign publications = site.data.publications %}
-{% assign pubs_by_year = publications | group_by: "year" %}
 
-{% for year in pubs_by_year %}
-<h3 class="archive__subtitle">{{ year.name }}</h3>
-{% for pub in year.items %}
-<details class="archive__item" style="background: white; border: 1px solid #eee; border-radius: 4px; margin-bottom: 8px; padding: 5px 10px;">
-<summary style="cursor: pointer; outline: none; list-style: none; display: flex; align-items: baseline;">
-<span style="color: #555; font-size: 0.9em; min-width: 150px;">{{ pub.short_authors | default: pub.author }}</span>
-<strong style="font-size: 1em; color: #222; margin-left: 10px;">{{ pub.title }}</strong>
-</summary>
-<div style="margin-top: 10px; padding-top: 10px; border-top: 1px dashed #eee; font-size: 0.9em;">
-{% if pub.journal %}<div style="margin-bottom: 4px;"><strong>Journal:</strong> <i>{{ pub.journal }}</i></div>{% elsif pub.booktitle %}<div style="margin-bottom: 4px;"><strong>Venue:</strong> <i>{{ pub.booktitle }}</i></div>{% endif %}
-<div style="color: #666; margin-bottom: 8px;"><strong>Authors:</strong> {{ pub.author | replace: " and ", ", " }}</div>
-<div>
-{% if pub.url %}<a href="{{ pub.url }}" style="text-decoration: none; padding: 2px 8px; background: #eef; color: #33a; border-radius: 3px; font-size: 0.8em; margin-right: 5px;">DOI / DBLP</a>{% endif %}
-{% if pub.arxiv_url %}<a href="{{ pub.arxiv_url }}" style="text-decoration: none; padding: 2px 8px; background: #efe; color: #272; border-radius: 3px; font-size: 0.8em; margin-right: 5px;">arXiv Version</a>{% endif %}
-{% if pub.ee %}<a href="{{ pub.ee }}" style="text-decoration: none; padding: 2px 8px; background: #fee; color: #a33; border-radius: 3px; font-size: 0.8em;">PDF</a>{% endif %}
-</div>
-</div>
-</details>
+{% for pub in publications %}
+  <details>
+    
+    <summary style="list-style: none; outline: none;">
+      <div class="pub-row">
+        
+        <div class="pub-year">{{ pub.year }}</div>
+        
+        <div class="pub-authors" title="{{ pub.short_authors }}">
+          {{ pub.short_authors | default: pub.author | replace: "M. Krnc", "●" | replace: "Matjaž Krnc", "●" }}
+        </div>
+        
+        <div class="pub-title">
+          {{ pub.title }}
+        </div>
+        
+      </div>
+    </summary>
+
+    <div style="background: #f9fdf9; padding: 15px; margin-top: -1px; border-bottom: 1px solid #eee; font-size: 0.9em;">
+      
+      <div style="margin-bottom: 8px; color: #444;">
+        {% if pub.journal %}
+          <strong>Journal:</strong> <i>{{ pub.journal }}</i>
+        {% elsif pub.booktitle %}
+          <strong>Venue:</strong> <i>{{ pub.booktitle }}</i>
+        {% endif %}
+        <br>
+        <strong>Full Authors:</strong> {{ pub.author | replace: " and ", ", " }}
+      </div>
+
+      <div>
+        {% if pub.url %}
+          <a href="{{ pub.url }}" style="text-decoration: none; padding: 3px 10px; background: #e8f5e9; color: #1b5e20; border: 1px solid #c8e6c9; border-radius: 4px; margin-right: 5px;">DOI / DBLP</a>
+        {% endif %}
+        
+        {% if pub.arxiv_url %}
+          <a href="{{ pub.arxiv_url }}" style="text-decoration: none; padding: 3px 10px; background: #e8f5e9; color: #1b5e20; border: 1px solid #c8e6c9; border-radius: 4px; margin-right: 5px;">arXiv</a>
+        {% endif %}
+        
+        {% if pub.ee %}
+           <a href="{{ pub.ee }}" style="text-decoration: none; padding: 3px 10px; background: #e8f5e9; color: #1b5e20; border: 1px solid #c8e6c9; border-radius: 4px;">PDF</a>
+        {% endif %}
+      </div>
+      
+    </div>
+  </details>
 {% endfor %}
-{% endfor %}
 
-<div style="margin-top: 2em; font-size: 0.8em; color: #888;">Full lists available on <a href="./dblp_publications.html">DBLP</a> or <a href="[https://bit.ly/Krnc-Scholar](https://bit.ly/Krnc-Scholar)">Google Scholar</a>.</div>
-
+<div style="margin-top: 30px; font-size: 0.8em; color: #888;">
+  Full lists available on <a href="./dblp_publications.html">DBLP</a> or <a href="https://bit.ly/Krnc-Scholar">Google Scholar</a>.
+</div>
 
 ### Academic Positions
 
