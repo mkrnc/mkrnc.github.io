@@ -22,21 +22,21 @@ Are you considering writing a thesis under my supervision? Please identify an ar
 - [The Hardy-Littlewood Collaboration Rule](./hardy-littlewood.html) - An overview of the collaboration ethos I support.
 
 ### Publications
-
 {% assign publications = site.data.publications %}
 {% assign pubs_by_year = publications | group_by: "year" %}
 
 {% for year in pubs_by_year %}
+<div class="list__item">
   <h3 class="archive__subtitle">{{ year.name }}</h3>
   
   {% for pub in year.items %}
-    <article class="archive__item" style="margin-bottom: 1em;">
-      <h4 class="archive__item-title" style="margin-bottom: 0px; font-size: 1em;">
+    <article class="archive__item" style="margin-bottom: 1.5em;">
+      <h4 class="archive__item-title" style="margin-bottom: 0.2em; font-size: 1.1em; font-family: sans-serif;">
         {{ pub.title }}
       </h4>
       
-      <div class="archive__item-excerpt" style="font-size: 0.85em; margin-top: 2px;">
-        <span style="color: #666;">
+      <div class="archive__item-excerpt" style="font-size: 0.9em; line-height: 1.5;">
+        <span style="color: #555;">
           {{ pub.author | replace: " and ", ", " }}
         </span>
         <br>
@@ -46,11 +46,14 @@ Are you considering writing a thesis under my supervision? Please identify an ar
           <i>{{ pub.booktitle }}</i>
         {% endif %}
         
-        &nbsp;[<a href="{{ pub.url }}">DBLP</a>]
-        {% if pub.ee %} [<a href="{{ pub.ee }}">PDF</a>] {% endif %}
+        <span style="font-size: 0.85em; margin-left: 0.5em;">
+          [<a href="{{ pub.url }}">DBLP</a>]
+          {% if pub.ee %}[<a href="{{ pub.ee }}">PDF</a>]{% endif %}
+        </span>
       </div>
     </article>
   {% endfor %}
+</div>
 {% endfor %}
 
 <div style="margin-top: 2em; font-size: 0.8em; color: #888;">
