@@ -31,37 +31,38 @@ Are you considering writing a thesis under my supervision? Please identify an ar
   <h3 class="archive__subtitle">{{ year.name }}</h3>
   
   {% for pub in year.items %}
-    <details class="archive__item" style="background: #f9f9f9; padding: 10px; border-radius: 5px; margin-bottom: 8px;">
+    <details class="archive__item" style="background: white; border: 1px solid #eee; border-radius: 4px; margin-bottom: 8px; padding: 5px 10px;">
       
-      <summary style="cursor: pointer; outline: none;">
-        <span style="color: #666; font-size: 0.95em;">{{ pub.short_authors }}</span>
-        <span style="margin: 0 8px; color: #ccc;">|</span>
-        <strong style="font-size: 1.05em; color: #222;">{{ pub.title }}</strong>
+      <summary style="cursor: pointer; outline: none; list-style: none; display: flex; align-items: baseline;">
+        <span style="color: #555; font-size: 0.9em; min-width: 150px;">
+           {{ pub.short_authors | default: pub.author }}
+        </span>
+        <strong style="font-size: 1em; color: #222; margin-left: 10px;">{{ pub.title }}</strong>
       </summary>
 
-      <div style="margin-top: 12px; padding-left: 18px; font-size: 0.9em; border-left: 3px solid #ddd;">
+      <div style="margin-top: 10px; padding-top: 10px; border-top: 1px dashed #eee; font-size: 0.9em;">
         
         {% if pub.journal %}
-          <div><strong>Journal:</strong> {{ pub.journal }}</div>
+          <div style="margin-bottom: 4px;"><strong>Journal:</strong> <i>{{ pub.journal }}</i></div>
         {% elsif pub.booktitle %}
-          <div><strong>Book/Conf:</strong> {{ pub.booktitle }}</div>
+          <div style="margin-bottom: 4px;"><strong>Venue:</strong> <i>{{ pub.booktitle }}</i></div>
         {% endif %}
         
-        <div style="margin-top: 4px; color: #555;">
-          <em>Full Authors: {{ pub.author | replace: " and ", ", " }}</em>
+        <div style="color: #666; margin-bottom: 8px;">
+          <strong>Authors:</strong> {{ pub.author | replace: " and ", ", " }}
         </div>
 
-        <div style="margin-top: 8px;">
+        <div>
           {% if pub.url %}
-            <a href="{{ pub.url }}" class="btn btn--primary btn--small">DOI / DBLP</a>
+            <a href="{{ pub.url }}" style="text-decoration: none; padding: 2px 8px; background: #eef; color: #33a; border-radius: 3px; font-size: 0.8em; margin-right: 5px;">DOI / DBLP</a>
           {% endif %}
           
           {% if pub.arxiv_url %}
-            <a href="{{ pub.arxiv_url }}" class="btn btn--info btn--small">arXiv Version</a>
+            <a href="{{ pub.arxiv_url }}" style="text-decoration: none; padding: 2px 8px; background: #efe; color: #272; border-radius: 3px; font-size: 0.8em; margin-right: 5px;">arXiv Version</a>
           {% endif %}
           
           {% if pub.ee %}
-             <a href="{{ pub.ee }}" class="btn btn--light btn--small">PDF/Source</a>
+             <a href="{{ pub.ee }}" style="text-decoration: none; padding: 2px 8px; background: #fee; color: #a33; border-radius: 3px; font-size: 0.8em;">PDF</a>
           {% endif %}
         </div>
         
@@ -71,9 +72,9 @@ Are you considering writing a thesis under my supervision? Please identify an ar
 {% endfor %}
 
 <div style="margin-top: 2em; font-size: 0.8em; color: #888;">
-  Full lists available on <a href="./dblp_publications.html">DBLP</a> or <a href="https://bit.ly/Krnc-Scholar">Google Scholar</a>.
+  Full lists available on <a href="./dblp_publications.html">DBLP</a> or <a href="[https://bit.ly/Krnc-Scholar](https://bit.ly/Krnc-Scholar)">Google Scholar</a>.
 </div>
----
+
 
 ### Academic Positions
 
@@ -98,7 +99,6 @@ Are you considering writing a thesis under my supervision? Please identify an ar
 | 2015 | Award for early PhD defense |
 | 2013 | Ad-futura mobility grant for PhD students (Research visit to Warwick University) |
 
----
 
 ### Research Collaborations & Students
 
@@ -112,7 +112,6 @@ Mikita Akulich, Jelena Ilić, Đorđe Klisura, Ina Bašić, Hannah Meit.
 I have had the pleasure of doing research (one week or more) with:
 Jernej Azarija, Vesna Andova, Nino Bašič, Gregor Bankhamer, Jesse Beisegel, Petra Berenbrink, Marthe Bonamy, Nina Chiarelli, Maria Chudnovsky, Clément Dallard, Andreas Darmann, Carolin Denkert, Zdenek Dvorak, Robert Elsaesser, Rok Erman, Robert Ganian, Frederik Garbe, Pascal Gollin, Eric Gottlieb, Janko Gravner, Vladimir Gurvich, Robert Hancock, Meike Hatzel, Frederic Havet, Claire Hilaire, Tomas Kaiser, Dominik Kaaser, Frantisek Kardos, Lukasz Kowalik, Peter Kling, Ekkehard Köhler, Daniel Kráľ, Martin Kupec, Ander Lamaison, Anita Liebenau, Borut Lužar, Aljoscha Mayer, Martin Milanič, Martina Mockovciakova, Samuel Mohr, Peter Muršič, Vít Musil, Sarka Petrickova, Ulrik Pferschy, Michał Pilipczuk, Tomaž Pisanski, Jean-Florent Raymond, Nicolás Rivera, Ondrej Rucky, Thomas Sauerwald, Joachim Schauer, Robert Scheffler, Jean-Sebastien Sereni, Ladislav Stacho, Martin Strehler, John Sylvester, Riste Škrekovski, Jan Volec, Misha Vyalyi, Tomasz Walen, Robin J Wilson, Zelealem Yilma.
 
----
 
 ### Talks & Visits
 

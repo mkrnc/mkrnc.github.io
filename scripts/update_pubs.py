@@ -68,9 +68,16 @@ def process_publications():
         # 3. Create Short Authors string (e.g. "M. Krnc, J. Doe")
         if 'author' in entry:
             authors = entry['author'].split(' and ')
-            short_authors = [abbreviate_author(a.strip()) for a in authors]
-            entry['short_authors'] = ", ".join(short_authors)
-            # We keep the full 'author' field for the expanded view if needed
+            short_authors_list = []
+            for a in authors:
+                parts = a.strip().split()
+                if len(parts) >= 2:
+                    # Take first char of all parts except last, plus last name
+                    initials = "".join([f"{p[0]}." for p in parts[:-1]])
+                    short_authors_list.append(f"{initials} {parts[-1]}")
+                else:
+                    short_authors_list.append(a)
+            entry['short_authors'] = ", ".join(short_authors_list)
 
         # 4. Merging Logic
         if norm_title in merged_entries:
