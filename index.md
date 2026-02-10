@@ -3,8 +3,8 @@ layout: single
 author_profile: true
 permalink: /
 title: "Curriculum Vitae"
-classes: wide
 toc: true
+toc_sticky: true
 toc_label: "Jump to"
 toc_icon: "list"
 ---
@@ -23,29 +23,30 @@ Are you considering writing a thesis under my supervision? Please identify an ar
 - [The Hardy-Littlewood Collaboration Rule](./hardy-littlewood.html) - An overview of the collaboration ethos I support.
 
 <style>
-  /* 0. CONSTRAINT: "Sweet Spot" Width (Wider than default, but not full edge-to-edge) */
+  /* 1. LAYOUT FIX: Widen the page but keep TOC on the right */
   .page__inner-wrap {
-    max-width: 1100px !important; 
-    margin-right: auto !important;
+    width: 85% !important; /* Forces wider content */
+    max-width: 1400px !important;
   }
+  
+  /* 2. COLOR FIX: Force Mint Green on all links */
+  a { color: #158466 !important; }
+  a:hover { color: #0b4f3c !important; text-decoration: underline; }
+  .archive__item-title { color: #158466 !important; }
 
-  /* 1. Mint Color Overrides for this page */
-  a { color: #158466; } /* Official Minimal Mistakes Mint Color */
-  a:hover { color: #0a4a3a; text-decoration: underline; }
-
-  /* 2. Grid Layout for Publications */
+  /* 3. GRID LAYOUT: Wrapping Text */
   .pub-row {
     display: grid;
-    /* Columns: Year (40px) | Authors (200px) | Title (Auto) */
-    grid-template-columns: 40px 200px auto; 
-    gap: 25px;
+    /* Year (45px) | Authors (22% width) | Title (Remaining space) */
+    grid-template-columns: 45px 22% 1fr; 
+    gap: 20px;
     align-items: baseline;
-    padding: 8px 0;
+    padding: 10px 0;
     border-bottom: 1px solid #eee;
     font-size: 0.95em;
   }
 
-  /* 3. Column Styling */
+  /* 4. Column Styling */
   .pub-year {
     color: #888;
     font-weight: bold;
@@ -54,25 +55,28 @@ Are you considering writing a thesis under my supervision? Please identify an ar
   
   .pub-authors {
     color: #555;
-    white-space: nowrap; 
-    overflow: hidden;
-    text-overflow: ellipsis;
+    /* ALLOW WRAPPING: */
+    white-space: normal; 
+    word-wrap: break-word;
+    line-height: 1.4;
   }
 
   .pub-title {
     color: #222;
     cursor: pointer;
+    line-height: 1.4;
   }
   
-  /* Hover effect for the whole row (Mint Green) */
+  /* Hover effect */
   summary:hover .pub-title {
     color: #158466; 
+    text-decoration: underline;
   }
 
   /* Mobile: Stack them */
   @media screen and (max-width: 800px) {
     .pub-row { grid-template-columns: 1fr; gap: 5px; }
-    .pub-authors { white-space: normal; font-size: 0.9em; color: #666;}
+    .pub-authors { font-size: 0.9em; color: #666; margin-bottom: 4px; }
     .pub-year { font-size: 0.8em; margin-bottom: 2px;}
   }
 </style>
@@ -89,7 +93,7 @@ Are you considering writing a thesis under my supervision? Please identify an ar
         <div class="pub-year">{{ pub.year }}</div>
         
         <div class="pub-authors" title="{{ pub.short_authors }}">
-          {{ pub.short_authors | default: pub.author | replace: "M. Krnc", "●" | replace: "Matjaž Krnc", "●" }}
+          {{ pub.short_authors | default: pub.author | replace: "M. Krnc", "•" | replace: "Matjaž Krnc", "•" }}
         </div>
         
         <div class="pub-title">{{ pub.title }}</div>
@@ -110,15 +114,15 @@ Are you considering writing a thesis under my supervision? Please identify an ar
 
       <div>
         {% if pub.url %}
-          <a href="{{ pub.url }}" style="text-decoration: none; padding: 4px 12px; background: #fff; color: #158466; border: 1px solid #158466; border-radius: 4px; margin-right: 5px; font-size: 0.85em;">DOI / DBLP</a>
+          <a href="{{ pub.url }}" style="text-decoration: none; padding: 4px 12px; background: #fff; color: #158466 !important; border: 1px solid #158466; border-radius: 4px; margin-right: 5px; font-size: 0.85em;">DOI / DBLP</a>
         {% endif %}
         
         {% if pub.arxiv_url %}
-          <a href="{{ pub.arxiv_url }}" style="text-decoration: none; padding: 4px 12px; background: #fff; color: #158466; border: 1px solid #158466; border-radius: 4px; margin-right: 5px; font-size: 0.85em;">arXiv</a>
+          <a href="{{ pub.arxiv_url }}" style="text-decoration: none; padding: 4px 12px; background: #fff; color: #158466 !important; border: 1px solid #158466; border-radius: 4px; margin-right: 5px; font-size: 0.85em;">arXiv</a>
         {% endif %}
         
         {% if pub.ee %}
-           <a href="{{ pub.ee }}" style="text-decoration: none; padding: 4px 12px; background: #fff; color: #158466; border: 1px solid #158466; border-radius: 4px; font-size: 0.85em;">PDF</a>
+           <a href="{{ pub.ee }}" style="text-decoration: none; padding: 4px 12px; background: #fff; color: #158466 !important; border: 1px solid #158466; border-radius: 4px; font-size: 0.85em;">PDF</a>
         {% endif %}
       </div>
       
