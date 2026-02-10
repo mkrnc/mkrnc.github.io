@@ -1,10 +1,6 @@
 ---
-layout: page
-title: Curriculum Vitae
-permalink: /cv/
+layout: default
 ---
-
-# Matjaž Krnc
 **Associate Professor in Computer Science and Mathematics**
 
 ### Contact
@@ -25,8 +21,8 @@ permalink: /cv/
 Are you considering writing a thesis under my supervision? Please identify an area of math/CS you are passionate about, then email me to arrange a meeting.
 
 ### Useful Resources
-- [Tips for Graduate Students]({{ site.baseurl }}/graduate.html) - For those wishing to explore the world of mathematics.
-- [The Hardy-Littlewood Collaboration Rule]({{ site.baseurl }}/hardy-littlewood.html) - An overview of the collaboration ethos I support.
+- [Tips for Graduate Students](./graduate.html) - For those wishing to explore the world of mathematics.
+- [The Hardy-Littlewood Collaboration Rule](./hardy-littlewood.html) - An overview of the collaboration ethos I support.
 - [A Guide to Math Bullies](https://mathweb.ucsd.edu/~fan/teach/add.htm) (Fan Chung's website).
 
 ---
