@@ -263,7 +263,7 @@
   doi: 10.5281/ZENODO.7004689
   url: https://doi.org/10.5281/zenodo.7004689
   note: Accessed on YYYY-MM-DD.
-  howpublished: r̆lhttps://doi.org/10.5281/zenodo.7004689
+  howpublished: \urlhttps://doi.org/10.5281/zenodo.7004689
   month: August
   year: '2022'
   publisher: Zenodo
@@ -290,7 +290,7 @@
   doi: 10.5281/ZENODO.6985124
   url: https://doi.org/10.5281/zenodo.6985124
   note: Accessed on YYYY-MM-DD.
-  howpublished: r̆lhttps://doi.org/10.5281/zenodo.6985124
+  howpublished: \urlhttps://doi.org/10.5281/zenodo.6985124
   month: August
   year: '2022'
   publisher: Zenodo
@@ -353,7 +353,7 @@
   volume: '195'
   series: Procedia Computer Science
   booktitle: Proceedings of the XI Latin and American Algorithms, Graphs and Optimization
-    Symposium, LAGOS 2021, Online Event / São Paulo, Brazil, May 2021
+    Symposium, LAGOS 2021, Online Event / S\~ao Paulo, Brazil, May 2021
   title: Graphs with Two Moplexes
   editor: Carlos E. Ferreira and Orlando Lee and Flávio Keidi Miyazawa
   author: Clément Dallard and Robert Ganian and Meike Hatzel and Matjaz Krnc and Martin
@@ -376,8 +376,8 @@
 - bibsource: dblp computer science bibliography, https://dblp.org
   biburl: https://dblp.org/rec/conf/cocoon/KlobasK21.bib
   timestamp: Wed, 03 Nov 2021 00:00:00 +0100
-  doi: 10.1007/978-3-030-89543-3_33
-  url: https://doi.org/10.1007/978-3-030-89543-3_33
+  doi: 10.1007/978-3-030-89543-3\_33
+  url: https://doi.org/10.1007/978-3-030-89543-3\_33
   year: '2021'
   publisher: Springer
   pages: 387--398
@@ -461,8 +461,8 @@
 - bibsource: dblp computer science bibliography, https://dblp.org
   biburl: https://dblp.org/rec/conf/iwoca/ChiarelliKMPPS20.bib
   timestamp: Thu, 25 Dec 2025 00:00:00 +0100
-  doi: 10.1007/978-3-030-48966-3_12
-  url: https://doi.org/10.1007/978-3-030-48966-3_12
+  doi: 10.1007/978-3-030-48966-3\_12
+  url: https://doi.org/10.1007/978-3-030-48966-3\_12
   year: '2020'
   publisher: Springer
   pages: 154--165
@@ -479,8 +479,8 @@
 - bibsource: dblp computer science bibliography, https://dblp.org
   biburl: https://dblp.org/rec/conf/wg/BeisegelCKKMPSS20.bib
   timestamp: Thu, 25 Dec 2025 00:00:00 +0100
-  doi: 10.1007/978-3-030-60440-0_11
-  url: https://doi.org/10.1007/978-3-030-60440-0_11
+  doi: 10.1007/978-3-030-60440-0\_11
+  url: https://doi.org/10.1007/978-3-030-60440-0\_11
   year: '2020'
   publisher: Springer
   pages: 134--147
@@ -522,8 +522,8 @@
   booktitle: Proceedings of the tenth Latin and American Algorithms, Graphs and Optimization
     Symposium, LAGOS 2019, Belo Horizonte, Brazil, June 2-7, 2019
   title: Recognizing Graph Search Trees
-  editor: Gabriel Coutinho and Yoshiharu Kohayakawa and Vinícius Fernandes dos Santos
-    and Sebastián Urrutia
+  editor: Gabriel Coutinho and Yoshiharu Kohayakawa and Vin\'\icius Fernandes dos
+    Santos and Sebastián Urrutia
   author: Jesse Beisegel and Carolin Denkert and Ekkehard Köhler and Matjaz Krnc and
     Nevena Pivac and Robert Scheffler and Martin Strehler
   ENTRYTYPE: inproceedings
@@ -685,8 +685,8 @@
 - bibsource: dblp computer science bibliography, https://dblp.org
   biburl: https://dblp.org/rec/conf/iwpec/ErmanKKW09.bib
   timestamp: Tue, 14 May 2019 10:00:45 +0200
-  doi: 10.1007/978-3-642-11269-0_11
-  url: https://doi.org/10.1007/978-3-642-11269-0_11
+  doi: 10.1007/978-3-642-11269-0\_11
+  url: https://doi.org/10.1007/978-3-642-11269-0\_11
   year: '2009'
   publisher: Springer
   pages: 134--148
