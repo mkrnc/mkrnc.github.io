@@ -23,14 +23,19 @@ Are you considering writing a thesis under my supervision? Please identify an ar
 
 ### Publications
 {% assign publications = site.data.publications %}
-{% assign grouped_pubs = publications | group_by: "year" | reverse %}
+{% assign pubs_by_year = publications | group_by: "year" %}
 
-{% for year in grouped_pubs %}
-  ## {{ year.name }}
+{% for year in pubs_by_year %}
+  #### {{ year.name }}
   {% for pub in year.items %}
-    * **{{ pub.title }}**
-        <br>_{{ pub.author }}_
-        <br>In *{{ pub.journal | default: pub.booktitle }}*. [DBLP Link]({{ pub.url }})
+  * **{{ pub.title }}**
+    <br>
+    <small>
+    {{ pub.author }}
+    {% if pub.journal %}— <em>{{ pub.journal }}</em>{% endif %}
+    {% if pub.booktitle %}— <em>{{ pub.booktitle }}</em>{% endif %}
+    [<a href="{{ pub.url }}">DBLP</a>]
+    </small>
   {% endfor %}
 {% endfor %}
 

@@ -1,0 +1,42 @@
+name: Update Publications
+
+permissions:
+  contents: write
+
+on:
+  # Trigger 1: Every time you push to the main branch
+  push:
+    branches:
+      - main
+      - master
+  # Trigger 2: Every Sunday at midnight UTC
+  schedule:
+    - cron: '0 0 * * 0'
+  # Trigger 3: Manual button click (for testing)
+  workflow_dispatch:
+
+jobs:
+  update-dblp:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          pip install bibtexparser pyyaml
+
+      - name: Run update script
+        run: python scripts/update_pubs.py
+
+      - name: Commit and Push changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Auto-update publications from DBLP"
+          file_pattern: _data/publications.yml
