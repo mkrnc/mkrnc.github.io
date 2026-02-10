@@ -28,52 +28,27 @@ Are you considering writing a thesis under my supervision? Please identify an ar
 {% assign pubs_by_year = publications | group_by: "year" %}
 
 {% for year in pubs_by_year %}
-  <h3 class="archive__subtitle">{{ year.name }}</h3>
-  
-  {% for pub in year.items %}
-    <details class="archive__item" style="background: white; border: 1px solid #eee; border-radius: 4px; margin-bottom: 8px; padding: 5px 10px;">
-      
-      <summary style="cursor: pointer; outline: none; list-style: none; display: flex; align-items: baseline;">
-        <span style="color: #555; font-size: 0.9em; min-width: 150px;">
-           {{ pub.short_authors | default: pub.author }}
-        </span>
-        <strong style="font-size: 1em; color: #222; margin-left: 10px;">{{ pub.title }}</strong>
-      </summary>
-
-      <div style="margin-top: 10px; padding-top: 10px; border-top: 1px dashed #eee; font-size: 0.9em;">
-        
-        {% if pub.journal %}
-          <div style="margin-bottom: 4px;"><strong>Journal:</strong> <i>{{ pub.journal }}</i></div>
-        {% elsif pub.booktitle %}
-          <div style="margin-bottom: 4px;"><strong>Venue:</strong> <i>{{ pub.booktitle }}</i></div>
-        {% endif %}
-        
-        <div style="color: #666; margin-bottom: 8px;">
-          <strong>Authors:</strong> {{ pub.author | replace: " and ", ", " }}
-        </div>
-
-        <div>
-          {% if pub.url %}
-            <a href="{{ pub.url }}" style="text-decoration: none; padding: 2px 8px; background: #eef; color: #33a; border-radius: 3px; font-size: 0.8em; margin-right: 5px;">DOI / DBLP</a>
-          {% endif %}
-          
-          {% if pub.arxiv_url %}
-            <a href="{{ pub.arxiv_url }}" style="text-decoration: none; padding: 2px 8px; background: #efe; color: #272; border-radius: 3px; font-size: 0.8em; margin-right: 5px;">arXiv Version</a>
-          {% endif %}
-          
-          {% if pub.ee %}
-             <a href="{{ pub.ee }}" style="text-decoration: none; padding: 2px 8px; background: #fee; color: #a33; border-radius: 3px; font-size: 0.8em;">PDF</a>
-          {% endif %}
-        </div>
-        
-      </div>
-    </details>
-  {% endfor %}
+<h3 class="archive__subtitle">{{ year.name }}</h3>
+{% for pub in year.items %}
+<details class="archive__item" style="background: white; border: 1px solid #eee; border-radius: 4px; margin-bottom: 8px; padding: 5px 10px;">
+<summary style="cursor: pointer; outline: none; list-style: none; display: flex; align-items: baseline;">
+<span style="color: #555; font-size: 0.9em; min-width: 150px;">{{ pub.short_authors | default: pub.author }}</span>
+<strong style="font-size: 1em; color: #222; margin-left: 10px;">{{ pub.title }}</strong>
+</summary>
+<div style="margin-top: 10px; padding-top: 10px; border-top: 1px dashed #eee; font-size: 0.9em;">
+{% if pub.journal %}<div style="margin-bottom: 4px;"><strong>Journal:</strong> <i>{{ pub.journal }}</i></div>{% elsif pub.booktitle %}<div style="margin-bottom: 4px;"><strong>Venue:</strong> <i>{{ pub.booktitle }}</i></div>{% endif %}
+<div style="color: #666; margin-bottom: 8px;"><strong>Authors:</strong> {{ pub.author | replace: " and ", ", " }}</div>
+<div>
+{% if pub.url %}<a href="{{ pub.url }}" style="text-decoration: none; padding: 2px 8px; background: #eef; color: #33a; border-radius: 3px; font-size: 0.8em; margin-right: 5px;">DOI / DBLP</a>{% endif %}
+{% if pub.arxiv_url %}<a href="{{ pub.arxiv_url }}" style="text-decoration: none; padding: 2px 8px; background: #efe; color: #272; border-radius: 3px; font-size: 0.8em; margin-right: 5px;">arXiv Version</a>{% endif %}
+{% if pub.ee %}<a href="{{ pub.ee }}" style="text-decoration: none; padding: 2px 8px; background: #fee; color: #a33; border-radius: 3px; font-size: 0.8em;">PDF</a>{% endif %}
+</div>
+</div>
+</details>
+{% endfor %}
 {% endfor %}
 
-<div style="margin-top: 2em; font-size: 0.8em; color: #888;">
-  Full lists available on <a href="./dblp_publications.html">DBLP</a> or <a href="[https://bit.ly/Krnc-Scholar](https://bit.ly/Krnc-Scholar)">Google Scholar</a>.
-</div>
+<div style="margin-top: 2em; font-size: 0.8em; color: #888;">Full lists available on <a href="./dblp_publications.html">DBLP</a> or <a href="[https://bit.ly/Krnc-Scholar](https://bit.ly/Krnc-Scholar)">Google Scholar</a>.</div>
 
 
 ### Academic Positions
