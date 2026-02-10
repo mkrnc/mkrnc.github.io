@@ -16,22 +16,25 @@ toc_icon: "list"
 - Population protocols, distributed consensus
 
 <style>
-  /* 1. LAYOUT: Keep the wider width you liked */
+  /* 1. LAYOUT */
   .page__inner-wrap {
     width: 85% !important;
     max-width: 1400px !important;
   }
   
-  /* 2. TABLE MIMICRY: Make publications look like standard table rows */
+  /* 2. TABLE MIMICRY (Strict) */
   .pub-row {
     display: grid;
-    /* Authors (25%) | Title (Auto) */
-    grid-template-columns: 25% 1fr; 
+    /* Authors (35%) | Title (Auto) */
+    grid-template-columns: 35% 1fr; 
     gap: 15px;
     align-items: baseline;
-    padding: 6px 0; /* Compact padding like a table */
-    border-bottom: 1px solid #e2e2e2; /* Standard table border color */
-    font-size: 0.85em; /* Match standard table font size */
+    padding: 6px 8px; /* Compact padding like a table cell */
+    border-bottom: 1px solid #e2e2e2;
+    
+    /* FORCE SMALLER FONT TO MATCH TABLES */
+    font-size: 0.8em !important; 
+    line-height: 1.4;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   }
 
@@ -40,26 +43,24 @@ toc_icon: "list"
     color: #555;
     white-space: normal; 
     word-wrap: break-word;
-    line-height: 1.3;
   }
 
   .pub-title {
     color: #222;
     cursor: pointer;
-    line-height: 1.3;
   }
   
-  /* Hover: Standard link underline, no color shifts */
+  /* Hover effect */
   summary:hover .pub-title {
     text-decoration: underline;
   }
 
-  /* 4. EXPANDED BOX: Neutral gray, simple styling */
+  /* 4. EXPANDED BOX */
   .pub-details {
     background: #fcfcfc;
     padding: 10px 15px;
     border-bottom: 1px solid #e2e2e2;
-    font-size: 0.85em;
+    font-size: 0.8em; /* Match table size */
     margin-bottom: 10px;
   }
 
@@ -86,7 +87,7 @@ toc_icon: "list"
 
 {% assign publications = site.data.publications %}
 
-<div style="display: grid; grid-template-columns: 25% 1fr; gap: 15px; padding: 8px 0; border-bottom: 2px solid #555; font-weight: bold; font-size: 0.85em; color: #333;">
+<div style="display: grid; grid-template-columns: 35% 1fr; gap: 15px; padding: 6px 8px; border-bottom: 2px solid #555; font-weight: bold; font-size: 0.8em; color: #333; margin-bottom: 0;">
   <div>Authors</div>
   <div>Title</div>
 </div>
