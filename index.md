@@ -16,53 +16,57 @@ toc_icon: "list"
 - Population protocols, distributed consensus
 
 <style>
-  /* 1. LAYOUT FIX: Widen the page but keep TOC on the right */
+  /* 1. LAYOUT: Keep the wider width you liked */
   .page__inner-wrap {
     width: 85% !important;
     max-width: 1400px !important;
   }
   
-  /* 2. COLOR FIX: Force Mint Green on all links */
-  a { color: #158466 !important; }
-  a:hover { color: #0b4f3c !important; text-decoration: underline; }
-  .archive__item-title { color: #158466 !important; }
-
-  /* 3. GRID LAYOUT: Authors | Title (No Year) */
+  /* 2. TABLE MIMICRY: Make publications look like standard table rows */
   .pub-row {
     display: grid;
-    /* Authors (30%) | Title (Auto) */
-    grid-template-columns: 30% 1fr; 
-    gap: 20px;
+    /* Authors (25%) | Title (Auto) */
+    grid-template-columns: 25% 1fr; 
+    gap: 15px;
     align-items: baseline;
-    padding: 10px 0;
-    border-bottom: 1px solid #eee;
-    font-size: 0.95em;
+    padding: 6px 0; /* Compact padding like a table */
+    border-bottom: 1px solid #e2e2e2; /* Standard table border color */
+    font-size: 0.85em; /* Match standard table font size */
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   }
 
-  /* 4. Column Styling */
+  /* 3. COLUMNS */
   .pub-authors {
     color: #555;
     white-space: normal; 
     word-wrap: break-word;
-    line-height: 1.4;
+    line-height: 1.3;
   }
 
   .pub-title {
     color: #222;
     cursor: pointer;
-    line-height: 1.4;
+    line-height: 1.3;
   }
   
-  /* Hover effect */
+  /* Hover: Standard link underline, no color shifts */
   summary:hover .pub-title {
-    color: #158466; 
     text-decoration: underline;
   }
 
-  /* Mobile: Stack them */
+  /* 4. EXPANDED BOX: Neutral gray, simple styling */
+  .pub-details {
+    background: #fcfcfc;
+    padding: 10px 15px;
+    border-bottom: 1px solid #e2e2e2;
+    font-size: 0.85em;
+    margin-bottom: 10px;
+  }
+
+  /* Mobile: Stack columns */
   @media screen and (max-width: 800px) {
-    .pub-row { grid-template-columns: 1fr; gap: 5px; }
-    .pub-authors { font-size: 0.9em; color: #666; margin-bottom: 4px; }
+    .pub-row { grid-template-columns: 1fr; gap: 4px; }
+    .pub-authors { font-weight: bold; margin-bottom: 2px; }
   }
 </style>
 
@@ -82,25 +86,25 @@ toc_icon: "list"
 
 {% assign publications = site.data.publications %}
 
+<div style="display: grid; grid-template-columns: 25% 1fr; gap: 15px; padding: 8px 0; border-bottom: 2px solid #555; font-weight: bold; font-size: 0.85em; color: #333;">
+  <div>Authors</div>
+  <div>Title</div>
+</div>
+
 {% for pub in publications %}
   <details>
-    
     <summary style="list-style: none; outline: none; cursor: pointer;">
       <div class="pub-row">
-        
         <div class="pub-authors" title="{{ pub.short_authors }}">
           {{ pub.short_authors | default: pub.author | replace: "M. Krnc", "•" | replace: "Matjaž Krnc", "•" }}
         </div>
-        
         <div class="pub-title">{{ pub.title }}</div>
       </div>
     </summary>
 
-    <div style="background: #f0fdf4; padding: 15px; margin-top: -1px; border-bottom: 1px solid #ccebd4; font-size: 0.9em;">
-      
-      <div style="margin-bottom: 10px; color: #444;">
-        <strong>Year:</strong> {{ pub.year }} <br>
-        
+    <div class="pub-details">
+      <div style="margin-bottom: 8px; color: #444;">
+        <strong>Year:</strong> {{ pub.year }} &nbsp;|&nbsp;
         {% if pub.journal %}
           <strong>Journal:</strong> <i>{{ pub.journal }}</i>
         {% elsif pub.booktitle %}
@@ -112,23 +116,22 @@ toc_icon: "list"
 
       <div>
         {% if pub.url %}
-          <a href="{{ pub.url }}" style="text-decoration: none; padding: 4px 12px; background: #fff; color: #158466 !important; border: 1px solid #158466; border-radius: 4px; margin-right: 5px; font-size: 0.85em;">DOI / DBLP</a>
+          [<a href="{{ pub.url }}">DOI / DBLP</a>]
         {% endif %}
         
         {% if pub.arxiv_url %}
-          <a href="{{ pub.arxiv_url }}" style="text-decoration: none; padding: 4px 12px; background: #fff; color: #158466 !important; border: 1px solid #158466; border-radius: 4px; margin-right: 5px; font-size: 0.85em;">arXiv</a>
+          [<a href="{{ pub.arxiv_url }}">arXiv</a>]
         {% endif %}
         
         {% if pub.ee %}
-           <a href="{{ pub.ee }}" style="text-decoration: none; padding: 4px 12px; background: #fff; color: #158466 !important; border: 1px solid #158466; border-radius: 4px; font-size: 0.85em;">PDF</a>
+           [<a href="{{ pub.ee }}">PDF</a>]
         {% endif %}
       </div>
-      
     </div>
   </details>
 {% endfor %}
 
-<div style="margin-top: 30px; margin-bottom: 50px; font-size: 0.8em; color: #888;">
+<div style="margin-top: 20px; margin-bottom: 50px; font-size: 0.8em; color: #888;">
   Full lists available on <a href="./dblp_publications.html">DBLP</a> or <a href="https://bit.ly/Krnc-Scholar">Google Scholar</a>.
 </div>
 
