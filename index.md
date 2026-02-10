@@ -20,13 +20,19 @@ Are you considering writing a thesis under my supervision? Please identify an ar
 ### Useful Resources
 - [Tips for Graduate Students](./graduate.html) - For those wishing to explore the world of mathematics.
 - [The Hardy-Littlewood Collaboration Rule](./hardy-littlewood.html) - An overview of the collaboration ethos I support.
-- [A Guide to Math Bullies](https://mathweb.ucsd.edu/~fan/teach/add.htm) (Fan Chung's website).
-
----
 
 ### Publications
+{% assign publications = site.data.publications %}
+{% assign grouped_pubs = publications | group_by: "year" | reverse %}
 
-<script src="https://bibbase.org/show?bib=https://dblp.org/pid/17/7594.bib&jsonp=1&groupBy=Type"></script>
+{% for year in grouped_pubs %}
+  ## {{ year.name }}
+  {% for pub in year.items %}
+    * **{{ pub.title }}**
+        <br>_{{ pub.author }}_
+        <br>In *{{ pub.journal | default: pub.booktitle }}*. [DBLP Link]({{ pub.url }})
+  {% endfor %}
+{% endfor %}
 
 *Full lists available on [DBLP](./dblp_publications.html) or [Google Scholar](https://bit.ly/Krnc-Scholar).*
 
