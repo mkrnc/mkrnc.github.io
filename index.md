@@ -1,14 +1,11 @@
 ---
-layout: default
----
-**Associate Professor in Computer Science and Mathematics**
-
-### Contact
-- **Email:** matjaz.krnc@upr.si
-- **Office:** I/2-2 (Galeb)
-- **Phone:** +386 (0)5 611 76 53
-- **Telegram:** @mkrnc
-
+layout: single
+author_profile: true
+permalink: /
+title: "Curriculum Vitae"
+toc: true
+toc_label: "Jump to"
+toc_icon: "list"
 ---
 
 ### Research Interests
@@ -29,13 +26,13 @@ Are you considering writing a thesis under my supervision? Please identify an ar
 
 ### Publications
 
-See my complete list of publications on [DBLP](./dblp_publications.html) or [Google Scholar](https://bit.ly/Krnc-Scholar).
-
 <script src="https://bibbase.org/show?bib=https://dblp.org/pid/17/7594.bib&jsonp=1&groupBy=Type"></script>
+
+*Full lists available on [DBLP](./dblp_publications.html) or [Google Scholar](https://bit.ly/Krnc-Scholar).*
 
 ---
 
-### Current and Previous Positions
+### Academic Positions
 
 | Period | Position | Institution |
 | :--- | :--- | :--- |
@@ -74,7 +71,9 @@ Jernej Azarija, Vesna Andova, Nino Bašič, Gregor Bankhamer, Jesse Beisegel, Pe
 
 ---
 
-### Seminar Talks & Public Lectures
+### Talks & Visits
+
+**Seminar Talks & Public Lectures**
 
 | Date | Institution |
 | :--- | :--- |
@@ -88,7 +87,7 @@ Jernej Azarija, Vesna Andova, Nino Bašič, Gregor Bankhamer, Jesse Beisegel, Pe
 | 2020 Mar. | Masaryk University, Brno, Czech Republic |
 | 2020 Feb. | Fachgebiet Diskrete Mathematik und Grundlagen der Informatik (B-TU Cottbus) |
 | 2019 Nov. | Open University, Milton Keynes, UK |
-| 2019 Aug. | National Research University Higher School of Economics, Faculty of Computer Science, Moscow |
+| 2019 Aug. | HSE, Faculty of Computer Science, Moscow |
 | 2019 May | FIN-TECH Risk management workshop on Blockchains (Joseph Stefan Institute) |
 | 2019 Jan. | Matematični dan (Public Lecture, UP FAMNIT) |
 | 2018 Dec. | Department of Mathematics, FAMNIT (UP) |
@@ -97,29 +96,14 @@ Jernej Azarija, Vesna Andova, Nino Bašič, Gregor Bankhamer, Jesse Beisegel, Pe
 | 2018 Feb. | Fachgebiet Diskrete Mathematik und Grundlagen der Informatik (B-TU Cottbus) |
 | 2017 Nov. | Computer Laboratory (University of Cambridge) |
 | 2017 Oct. | Oberseminar Arbeitsbereich ART, Fachbereich Informatik (Universität Hamburg) |
-| 2016 Jun. | Efficient Algorithms Group, Fachbereich Computerwissenschaften (Paris Lodron University of Salzburg) |
+| 2016 Jun. | Efficient Algorithms Group (Salzburg University) |
 | 2016 Apr. | Department of Information Science and Technologies, FAMNIT (UP) |
 
-### Research Visits
+**Research Visits**
 
-- INRIA, Sophia Antipolis, France
-- University of West Bohemia, Pilsen, Czech Republic
-- Charles University, Prague, Czech Republic
-- Pavol Jozef Šafárik University in Košice, Slovakia
-- Institute of Informatics, Warsaw University, Poland
-- Faculty of Civil Engineering, University of Zagreb, Croatia
-- LIAFA (CNRS), Université Paris Diderot, France
-- Fachbereich Informatik, Universität Hamburg, Germany
-- Computer Laboratory, Cambridge, UK
-- Brandenburgische Technische Universität, Cottbus, Germany
-- Karl-Franzens-Universität Graz, Austria
-- National Research University Higher School of Economics, Moscow
-- Open University, Milton Keynes, UK
-- Masaryk University, Brno, Czech Republic
-- National Institute of Informatics, Tokyo, Japan
-- Rhodes College, Tennessee, USA
-- University of Memphis, Tennessee, USA
-- Rutgers University, New Jersey, USA
+* **Europe:** INRIA (France), University of West Bohemia (Czech), Charles University (Czech), Pavol Jozef Šafárik University (Slovakia), Warsaw University (Poland), University of Zagreb (Croatia), LIAFA (France), Universität Hamburg (Germany), Cambridge (UK), Brandenburgische Technische Universität (Germany), Karl-Franzens-Universität Graz (Austria), Masaryk University (Czech).
+* **USA:** Rhodes College (TN), University of Memphis (TN), Rutgers University (NJ).
+* **Other:** HSE (Moscow), National Institute of Informatics (Tokyo).
 
 ### Organised Events
 

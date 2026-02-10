@@ -1,4 +1,8 @@
-### Research collaboration
+---
+layout: single
+title: "Research collaboration"
+author_profile: true
+---
 
 *   **Why collaborate?**
     *   It is more fun.

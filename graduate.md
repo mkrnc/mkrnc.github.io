@@ -1,4 +1,8 @@
-### A few words on research for graduate students
+---
+layout: single
+title: "Tips for Graduate Students"
+author_profile: true
+---
 
 For graduate students who wish to explore the world of mathematics, here are a few things that you probably would like to know at the beginning of the journey. (I wish someone would have told me so!)
 

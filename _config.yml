@@ -1,7 +1,33 @@
-github:
-  is_project_page: false
-theme: jekyll-theme-minimal
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default" # Options: "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+# Site Settings
 title: Matjaž Krnc
-description: University of Primorska, Faculty of Mathematics, Natural Sciences and Information Technologies
-logo: ./charles_bridge.jpeg
-google_analytics: UA-164935162-1
+description: "Associate Professor in Computer Science and Mathematics"
+url: "https://mkrnc.github.io" 
+
+# AUTHOR SIDEBAR SETTINGS (This replaces your "Contact" section)
+author:
+  name: "Matjaž Krnc"
+  avatar: "/charles_bridge.jpeg" # Ensure this file exists in your root folder
+  bio: "Associate Professor at **University of Primorska** (FAMNIT)."
+  location: "Koper, Slovenia"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:matjaz.krnc@upr.si"
+    - label: "Office: I/2-2 (Galeb)"
+      icon: "fas fa-fw fa-map-marker-alt"
+      url: "#" # Non-clickable
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://bit.ly/Krnc-Scholar"
+    - label: "DBLP"
+      icon: "fas fa-fw fa-book"
+      url: "./dblp_publications.html"
+    - label: "Telegram"
+      icon: "fab fa-fw fa-telegram"
+      url: "https://t.me/mkrnc"
+
+plugins:
+  - jekyll-include-cache
