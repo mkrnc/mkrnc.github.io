@@ -21,39 +21,53 @@ Are you considering writing a thesis under my supervision? Please identify an ar
 - [Tips for Graduate Students](./graduate.html) - For those wishing to explore the world of mathematics.
 - [The Hardy-Littlewood Collaboration Rule](./hardy-littlewood.html) - An overview of the collaboration ethos I support.
 
+
 ### Publications
+
 {% assign publications = site.data.publications %}
 {% assign pubs_by_year = publications | group_by: "year" %}
 
 {% for year in pubs_by_year %}
-<div class="list__item">
   <h3 class="archive__subtitle">{{ year.name }}</h3>
   
   {% for pub in year.items %}
-    <article class="archive__item" style="margin-bottom: 1.5em;">
-      <h4 class="archive__item-title" style="margin-bottom: 0.2em; font-size: 1.1em; font-family: sans-serif;">
-        {{ pub.title }}
-      </h4>
+    <details class="archive__item" style="background: #f9f9f9; padding: 10px; border-radius: 5px; margin-bottom: 8px;">
       
-      <div class="archive__item-excerpt" style="font-size: 0.9em; line-height: 1.5;">
-        <span style="color: #555;">
-          {{ pub.author | replace: " and ", ", " }}
-        </span>
-        <br>
+      <summary style="cursor: pointer; outline: none;">
+        <span style="color: #666; font-size: 0.95em;">{{ pub.short_authors }}</span>
+        <span style="margin: 0 8px; color: #ccc;">|</span>
+        <strong style="font-size: 1.05em; color: #222;">{{ pub.title }}</strong>
+      </summary>
+
+      <div style="margin-top: 12px; padding-left: 18px; font-size: 0.9em; border-left: 3px solid #ddd;">
+        
         {% if pub.journal %}
-          <i>{{ pub.journal }}</i>
+          <div><strong>Journal:</strong> {{ pub.journal }}</div>
         {% elsif pub.booktitle %}
-          <i>{{ pub.booktitle }}</i>
+          <div><strong>Book/Conf:</strong> {{ pub.booktitle }}</div>
         {% endif %}
         
-        <span style="font-size: 0.85em; margin-left: 0.5em;">
-          [<a href="{{ pub.url }}">DBLP</a>]
-          {% if pub.ee %}[<a href="{{ pub.ee }}">PDF</a>]{% endif %}
-        </span>
+        <div style="margin-top: 4px; color: #555;">
+          <em>Full Authors: {{ pub.author | replace: " and ", ", " }}</em>
+        </div>
+
+        <div style="margin-top: 8px;">
+          {% if pub.url %}
+            <a href="{{ pub.url }}" class="btn btn--primary btn--small">DOI / DBLP</a>
+          {% endif %}
+          
+          {% if pub.arxiv_url %}
+            <a href="{{ pub.arxiv_url }}" class="btn btn--info btn--small">arXiv Version</a>
+          {% endif %}
+          
+          {% if pub.ee %}
+             <a href="{{ pub.ee }}" class="btn btn--light btn--small">PDF/Source</a>
+          {% endif %}
+        </div>
+        
       </div>
-    </article>
+    </details>
   {% endfor %}
-</div>
 {% endfor %}
 
 <div style="margin-top: 2em; font-size: 0.8em; color: #888;">
