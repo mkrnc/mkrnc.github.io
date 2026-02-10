@@ -1,4 +1,19 @@
 - bibsource: dblp computer science bibliography, https://dblp.org
+  biburl: https://dblp.org/rec/journals/combinatorics/GurvichKMV25.bib
+  timestamp: Mon, 01 Dec 2025 00:00:00 +0100
+  doi: 10.37236/13023
+  url: https://doi.org/10.37236/13023
+  year: '2025'
+  number: '2'
+  volume: '32'
+  journal: Electron. J. Comb.
+  title: Avoidability Beyond Paths
+  author: Vladimir Gurvich and Matjaz Krnc and Martin Milanic and Mikhail N. Vyalyi
+  ENTRYTYPE: article
+  ID: DBLP:journals/combinatorics/GurvichKMV25
+  short_authors: V. Gurvich, M. Krnc, M. Milanic, M.N. Vyalyi
+  arxiv_url: https://doi.org/10.48550/arXiv.2208.12803
+- bibsource: dblp computer science bibliography, https://dblp.org
   biburl: https://dblp.org/rec/journals/dam/KlobasK25.bib
   timestamp: Mon, 03 Mar 2025 00:00:00 +0100
   doi: 10.1016/J.DAM.2024.11.034
@@ -27,6 +42,8 @@
   ENTRYTYPE: article
   ID: DBLP:journals/corr/abs-2501-03788
   short_authors: J. Gravner, M. Krnc, M. Milanic, J. Raymond
+  is_arxiv_only: true
+  arxiv_url: https://doi.org/10.48550/arXiv.2501.03788
 - bibsource: dblp computer science bibliography, https://dblp.org
   biburl: https://dblp.org/rec/journals/corr/abs-2505-02768.bib
   timestamp: Sun, 29 Jun 2025 01:00:00 +0200
@@ -42,6 +59,8 @@
   ENTRYTYPE: article
   ID: DBLP:journals/corr/abs-2505-02768
   short_authors: C. Hilaire, M. Krnc, M. Milanic, J. Raymond
+  is_arxiv_only: true
+  arxiv_url: https://doi.org/10.48550/arXiv.2505.02768
 - bibsource: dblp computer science bibliography, https://dblp.org
   biburl: https://dblp.org/rec/journals/corr/abs-2508-06216.bib
   timestamp: Sat, 13 Sep 2025 01:00:00 +0200
@@ -59,6 +78,8 @@
   ID: DBLP:journals/corr/abs-2508-06216
   short_authors: J. Beisegel, N. Chiarelli, E. Köhler, M. Krnc, M. Milanic, N. Pivac,
     R. Scheffler, M. Strehler
+  is_arxiv_only: true
+  arxiv_url: https://doi.org/10.48550/arXiv.2508.06216
 - bibsource: dblp computer science bibliography, https://dblp.org
   biburl: https://dblp.org/rec/journals/corr/abs-2509-03390.bib
   timestamp: Tue, 21 Oct 2025 01:00:00 +0200
@@ -75,6 +96,8 @@
   ENTRYTYPE: article
   ID: DBLP:journals/corr/abs-2509-03390
   short_authors: E. Gottlieb, D. Khatana, M. Krnc, P. Mursic, I. Qureshi
+  is_arxiv_only: true
+  arxiv_url: https://doi.org/10.48550/arXiv.2509.03390
 - bibsource: dblp computer science bibliography, https://dblp.org
   biburl: https://dblp.org/rec/journals/corr/abs-2512-12329.bib
   timestamp: Mon, 26 Jan 2026 00:00:00 +0100
@@ -90,6 +113,40 @@
   ENTRYTYPE: article
   ID: DBLP:journals/corr/abs-2512-12329
   short_authors: M. Chudnovsky, J.P. Gollin, M. Krnc, M. Milanic
+  is_arxiv_only: true
+  arxiv_url: https://doi.org/10.48550/arXiv.2512.12329
+- bibsource: dblp computer science bibliography, https://dblp.org
+  biburl: https://dblp.org/rec/journals/dam/GottliebKM24.bib
+  timestamp: Tue, 14 Oct 2025 01:00:00 +0200
+  doi: 10.1016/J.DAM.2023.11.036
+  url: https://doi.org/10.1016/j.dam.2023.11.036
+  year: '2024'
+  pages: 154--169
+  volume: '346'
+  journal: Discret. Appl. Math.
+  title: Sprague-Grundy values and complexity for LCTR
+  author: Eric Gottlieb and Matjaz Krnc and Peter Mursic
+  ENTRYTYPE: article
+  ID: DBLP:journals/dam/GottliebKM24
+  short_authors: E. Gottlieb, M. Krnc, P. Mursic
+  arxiv_url: https://doi.org/10.48550/arXiv.2207.05599
+- bibsource: dblp computer science bibliography, https://dblp.org
+  biburl: https://dblp.org/rec/journals/jgt/DallardGHKM24.bib
+  timestamp: Sat, 31 May 2025 01:00:00 +0200
+  doi: 10.1002/JGT.23102
+  url: https://doi.org/10.1002/jgt.23102
+  year: '2024'
+  pages: 38--69
+  number: '1'
+  volume: '107'
+  journal: J. Graph Theory
+  title: Graphs with at most two moplexes
+  author: Clément Dallard and Robert Ganian and Meike Hatzel and Matjaz Krnc and Martin
+    Milanic
+  ENTRYTYPE: article
+  ID: DBLP:journals/jgt/DallardGHKM24
+  short_authors: C. Dallard, R. Ganian, M. Hatzel, M. Krnc, M. Milanic
+  arxiv_url: https://arxiv.org/abs/2106.10049
 - bibsource: dblp computer science bibliography, https://dblp.org
   biburl: https://dblp.org/rec/journals/corr/abs-2401-07484.bib
   timestamp: Wed, 07 Feb 2024 00:00:00 +0100
@@ -105,6 +162,8 @@
   ENTRYTYPE: article
   ID: DBLP:journals/corr/abs-2401-07484
   short_authors: V. Gurvich, M. Krnc, M.N. Vyalyi
+  is_arxiv_only: true
+  arxiv_url: https://doi.org/10.48550/arXiv.2401.07484
 - bibsource: dblp computer science bibliography, https://dblp.org
   biburl: https://dblp.org/rec/journals/corr/abs-2402-11222.bib
   timestamp: Tue, 28 Jan 2025 00:00:00 +0100
@@ -123,6 +182,8 @@
   ID: DBLP:journals/corr/abs-2402-11222
   short_authors: C. Dallard, M. Krnc, O. Kwon, M. Milanic, A. Munaro, K. Storgel,
     S. Wiederrecht
+  is_arxiv_only: true
+  arxiv_url: https://doi.org/10.48550/arXiv.2402.11222
 - bibsource: dblp computer science bibliography, https://dblp.org
   biburl: https://dblp.org/rec/journals/algorithmica/ChiarelliKMPPS23.bib
   timestamp: Thu, 25 Dec 2025 00:00:00 +0100
@@ -155,23 +216,23 @@
   ID: DBLP:journals/algorithms/AkulichSKS23
   short_authors: M. Akulich, I. Savnik, M. Krnc, R. Skrekovski
 - bibsource: dblp computer science bibliography, https://dblp.org
-  biburl: https://dblp.org/rec/journals/corr/abs-2308-09399.bib
-  timestamp: Fri, 25 Aug 2023 01:00:00 +0200
-  eprint: '2308.09399'
-  eprinttype: arXiv
-  doi: 10.48550/ARXIV.2308.09399
-  url: https://doi.org/10.48550/arXiv.2308.09399
+  biburl: https://dblp.org/rec/journals/cam/ChiarelliKMPS23.bib
+  timestamp: Wed, 01 Nov 2023 00:00:00 +0100
+  doi: 10.1007/S40314-023-02437-0
+  url: https://doi.org/10.1007/s40314-023-02437-0
   year: '2023'
-  volume: abs/2308.09399
-  journal: CoRR
-  title: Fair Allocation Algorithms for Indivisible Items under Structured Conflict
-    Constraints
+  pages: '302'
+  number: '7'
+  volume: '42'
+  journal: Comput. Appl. Math.
+  title: Fair allocation algorithms for indivisible items under structured conflict
+    constraints
   author: Nina Chiarelli and Matjaz Krnc and Martin Milanic and Ulrich Pferschy and
     Joachim Schauer
   ENTRYTYPE: article
-  ID: DBLP:journals/corr/abs-2308-09399
+  ID: DBLP:journals/cam/ChiarelliKMPS23
   short_authors: N. Chiarelli, M. Krnc, M. Milanic, U. Pferschy, J. Schauer
-  arxiv_url: https://doi.org/10.1007/s40314-023-02437-0
+  arxiv_url: https://doi.org/10.48550/arXiv.2308.09399
 - bibsource: dblp computer science bibliography, https://dblp.org
   biburl: https://dblp.org/rec/journals/rsa/HancockKKV23.bib
   timestamp: Wed, 23 Jul 2025 01:00:00 +0200
@@ -188,38 +249,6 @@
   ID: DBLP:journals/rsa/HancockKKV23
   short_authors: R. Hancock, D. Král', M. Krnc, J. Volec
 - bibsource: dblp computer science bibliography, https://dblp.org
-  biburl: https://dblp.org/rec/journals/corr/abs-2208-12803.bib
-  timestamp: Mon, 29 Aug 2022 01:00:00 +0200
-  eprint: '2208.12803'
-  eprinttype: arXiv
-  doi: 10.48550/ARXIV.2208.12803
-  url: https://doi.org/10.48550/arXiv.2208.12803
-  year: '2022'
-  volume: abs/2208.12803
-  journal: CoRR
-  title: Avoidability beyond paths
-  author: Vladimir Gurvich and Matjaz Krnc and Martin Milanic and Mikhail N. Vyalyi
-  ENTRYTYPE: article
-  ID: DBLP:journals/corr/abs-2208-12803
-  short_authors: V. Gurvich, M. Krnc, M. Milanic, M.N. Vyalyi
-  arxiv_url: https://doi.org/10.37236/13023
-- bibsource: dblp computer science bibliography, https://dblp.org
-  biburl: https://dblp.org/rec/journals/corr/abs-2207-05599.bib
-  timestamp: Tue, 14 Oct 2025 01:00:00 +0200
-  eprint: '2207.05599'
-  eprinttype: arXiv
-  doi: 10.48550/ARXIV.2207.05599
-  url: https://doi.org/10.48550/arXiv.2207.05599
-  year: '2022'
-  volume: abs/2207.05599
-  journal: CoRR
-  title: Sprague-Grundy values and complexity for LCTR
-  author: Eric Gottlieb and Matjaz Krnc and Peter Mursic
-  ENTRYTYPE: article
-  ID: DBLP:journals/corr/abs-2207-05599
-  short_authors: E. Gottlieb, M. Krnc, P. Mursic
-  arxiv_url: https://doi.org/10.1016/j.dam.2023.11.036
-- bibsource: dblp computer science bibliography, https://dblp.org
   biburl: https://dblp.org/rec/journals/informaticaSI/KarlovcecKS22.bib
   timestamp: Fri, 13 Jan 2023 00:00:00 +0100
   doi: 10.31449/INF.V46I5.3817
@@ -233,6 +262,22 @@
   ENTRYTYPE: article
   ID: DBLP:journals/informaticaSI/KarlovcecKS22
   short_authors: M. Karlovcec, M. Krnc, R. Skrekovski
+- bibsource: dblp computer science bibliography, https://dblp.org
+  biburl: https://dblp.org/rec/journals/jgt/GurvichKMV22.bib
+  timestamp: Wed, 27 Apr 2022 01:00:00 +0200
+  doi: 10.1002/JGT.22766
+  url: https://doi.org/10.1002/jgt.22766
+  year: '2022'
+  pages: 69--83
+  number: '1'
+  volume: '100'
+  journal: J. Graph Theory
+  title: Shifting paths to avoidable ones
+  author: Vladimir Gurvich and Matjaz Krnc and Martin Milanic and Mikhail N. Vyalyi
+  ENTRYTYPE: article
+  ID: DBLP:journals/jgt/GurvichKMV22
+  short_authors: V. Gurvich, M. Krnc, M. Milanic, M.N. Vyalyi
+  arxiv_url: https://arxiv.org/abs/2008.01128
 - bibsource: dblp computer science bibliography, https://dblp.org
   biburl: https://dblp.org/rec/data/10/AkulichSKS22.bib
   timestamp: Wed, 23 Oct 2024 01:00:00 +0200
@@ -264,22 +309,6 @@
   ENTRYTYPE: misc
   ID: DBLP:data/10/GurvichKMV22
   short_authors: V. Gurvich, M. Krnc, M. Milanic, M.N. Vyalyi
-- bibsource: dblp computer science bibliography, https://dblp.org
-  biburl: https://dblp.org/rec/journals/corr/abs-2106-10049.bib
-  timestamp: Thu, 01 Jul 2021 01:00:00 +0200
-  eprint: '2106.10049'
-  eprinttype: arXiv
-  url: https://arxiv.org/abs/2106.10049
-  year: '2021'
-  volume: abs/2106.10049
-  journal: CoRR
-  title: Graphs with at most two moplexes
-  author: Clément Dallard and Robert Ganian and Meike Hatzel and Matjaz Krnc and Martin
-    Milanic
-  ENTRYTYPE: article
-  ID: DBLP:journals/corr/abs-2106-10049
-  short_authors: C. Dallard, R. Ganian, M. Hatzel, M. Krnc, M. Milanic
-  arxiv_url: https://doi.org/10.1002/jgt.23102
 - bibsource: dblp computer science bibliography, https://dblp.org
   biburl: https://dblp.org/rec/journals/siamdm/BeisegelDKKPSS21.bib
   timestamp: Thu, 25 Dec 2025 00:00:00 +0100
@@ -330,21 +359,8 @@
   ENTRYTYPE: article
   ID: DBLP:journals/corr/abs-2109-00035
   short_authors: M. Krnc, N. Pivac
-- bibsource: dblp computer science bibliography, https://dblp.org
-  biburl: https://dblp.org/rec/journals/corr/abs-2008-01128.bib
-  timestamp: Fri, 07 Aug 2020 01:00:00 +0200
-  eprint: '2008.01128'
-  eprinttype: arXiv
-  url: https://arxiv.org/abs/2008.01128
-  year: '2020'
-  volume: abs/2008.01128
-  journal: CoRR
-  title: Shifting paths to avoidable ones
-  author: Vladimir Gurvich and Matjaz Krnc and Martin Milanic and Mikhail N. Vyalyi
-  ENTRYTYPE: article
-  ID: DBLP:journals/corr/abs-2008-01128
-  short_authors: V. Gurvich, M. Krnc, M. Milanic, M.N. Vyalyi
-  arxiv_url: https://doi.org/10.1002/jgt.22766
+  is_arxiv_only: true
+  arxiv_url: https://arxiv.org/abs/2109.00035
 - bibsource: dblp computer science bibliography, https://dblp.org
   biburl: https://dblp.org/rec/journals/dam/KrncW20.bib
   timestamp: Thu, 06 Aug 2020 01:00:00 +0200
@@ -376,21 +392,25 @@
   ID: DBLP:journals/dmgt/KrncSSY20
   short_authors: M. Krnc, J. Sereni, R. Skrekovski, Z.B. Yilma
 - bibsource: dblp computer science bibliography, https://dblp.org
-  biburl: https://dblp.org/rec/journals/corr/abs-2003-11313.bib
-  timestamp: Wed, 01 Apr 2020 01:00:00 +0200
-  eprint: '2003.11313'
-  eprinttype: arXiv
-  url: https://arxiv.org/abs/2003.11313
+  biburl: https://dblp.org/rec/conf/iwoca/ChiarelliKMPPS20.bib
+  timestamp: Thu, 25 Dec 2025 00:00:00 +0100
+  doi: 10.1007/978-3-030-48966-3\_12
+  url: https://doi.org/10.1007/978-3-030-48966-3\_12
   year: '2020'
-  volume: abs/2003.11313
-  journal: CoRR
-  title: Fair packing of independent sets
+  publisher: Springer
+  pages: 154--165
+  volume: '12126'
+  series: Lecture Notes in Computer Science
+  booktitle: Combinatorial Algorithms - 31st International Workshop, IWOCA 2020, Bordeaux,
+    France, June 8-10, 2020, Proceedings
+  title: Fair Packing of Independent Sets
+  editor: Leszek Gasieniec and Ralf Klasing and Tomasz Radzik
   author: Nina Chiarelli and Matjaz Krnc and Martin Milanic and Ulrich Pferschy and
     Nevena Pivac and Joachim Schauer
-  ENTRYTYPE: article
-  ID: DBLP:journals/corr/abs-2003-11313
+  ENTRYTYPE: inproceedings
+  ID: DBLP:conf/iwoca/ChiarelliKMPPS20
   short_authors: N. Chiarelli, M. Krnc, M. Milanic, U. Pferschy, N. Pivac, J. Schauer
-  arxiv_url: https://doi.org/10.1007/978-3-030-48966-3\_12
+  arxiv_url: https://arxiv.org/abs/2003.11313
 - bibsource: dblp computer science bibliography, https://dblp.org
   biburl: https://dblp.org/rec/conf/podc/BankhamerEKK20.bib
   timestamp: Tue, 04 Aug 2020 16:04:51 +0200
@@ -441,6 +461,25 @@
   ENTRYTYPE: article
   ID: DBLP:journals/corr/abs-2008-08856
   short_authors: N. Klobas, M. Krnc
+  is_arxiv_only: true
+  arxiv_url: https://arxiv.org/abs/2008.08856
+- bibsource: dblp computer science bibliography, https://dblp.org
+  biburl: https://dblp.org/rec/journals/dmtcs/BeisegelDKKPSS19.bib
+  timestamp: Thu, 25 Dec 2025 00:00:00 +0100
+  doi: 10.23638/DMTCS-21-1-13
+  url: https://doi.org/10.23638/DMTCS-21-1-13
+  year: '2019'
+  number: '1'
+  volume: '21'
+  journal: Discret. Math. Theor. Comput. Sci.
+  title: On the End-Vertex Problem of Graph Searches
+  author: Jesse Beisegel and Carolin Denkert and Ekkehard Köhler and Matjaz Krnc and
+    Nevena Pivac and Robert Scheffler and Martin Strehler
+  ENTRYTYPE: article
+  ID: DBLP:journals/dmtcs/BeisegelDKKPSS19
+  short_authors: J. Beisegel, C. Denkert, E. Köhler, M. Krnc, N. Pivac, R. Scheffler,
+    M. Strehler
+  arxiv_url: http://arxiv.org/abs/1810.12253
 - bibsource: dblp computer science bibliography, https://dblp.org
   biburl: https://dblp.org/rec/journals/dmtcs/KrncP19.bib
   timestamp: Thu, 01 May 2025 01:00:00 +0200
@@ -456,39 +495,27 @@
   ID: DBLP:journals/dmtcs/KrncP19
   short_authors: M. Krnc, T. Pisanski
 - bibsource: dblp computer science bibliography, https://dblp.org
-  biburl: https://dblp.org/rec/journals/corr/abs-1810-12253.bib
-  timestamp: Mon, 04 Jul 2022 01:00:00 +0200
-  eprint: '1810.12253'
-  eprinttype: arXiv
-  url: http://arxiv.org/abs/1810.12253
-  year: '2018'
-  volume: abs/1810.12253
-  journal: CoRR
-  title: On the End-Vertex Problem of Graph Searches
-  author: Jesse Beisegel and Carolin Denkert and Ekkehard Köhler and Matjaz Krnc and
-    Nevena Pivac and Robert Scheffler and Martin Strehler
-  ENTRYTYPE: article
-  ID: DBLP:journals/corr/abs-1810-12253
-  short_authors: J. Beisegel, C. Denkert, E. Köhler, M. Krnc, N. Pivac, R. Scheffler,
-    M. Strehler
-  arxiv_url: https://doi.org/10.23638/DMTCS-21-1-13
-- bibsource: dblp computer science bibliography, https://dblp.org
-  biburl: https://dblp.org/rec/journals/corr/abs-1811-09249.bib
-  timestamp: Mon, 04 Jul 2022 01:00:00 +0200
-  eprint: '1811.09249'
-  eprinttype: arXiv
-  url: http://arxiv.org/abs/1811.09249
-  year: '2018'
-  volume: abs/1811.09249
-  journal: CoRR
+  biburl: https://dblp.org/rec/journals/entcs/BeisegelDKKPSS19.bib
+  timestamp: Thu, 25 Dec 2025 00:00:00 +0100
+  doi: 10.1016/J.ENTCS.2019.08.010
+  url: https://doi.org/10.1016/j.entcs.2019.08.010
+  year: '2019'
+  publisher: Elsevier
+  pages: 99--110
+  volume: '346'
+  series: Electronic Notes in Theoretical Computer Science
+  booktitle: Proceedings of the tenth Latin and American Algorithms, Graphs and Optimization
+    Symposium, LAGOS 2019, Belo Horizonte, Brazil, June 2-7, 2019
   title: Recognizing Graph Search Trees
+  editor: Gabriel Coutinho and Yoshiharu Kohayakawa and Vin\'\icius Fernandes dos
+    Santos and Sebastián Urrutia
   author: Jesse Beisegel and Carolin Denkert and Ekkehard Köhler and Matjaz Krnc and
     Nevena Pivac and Robert Scheffler and Martin Strehler
-  ENTRYTYPE: article
-  ID: DBLP:journals/corr/abs-1811-09249
+  ENTRYTYPE: inproceedings
+  ID: DBLP:journals/entcs/BeisegelDKKPSS19
   short_authors: J. Beisegel, C. Denkert, E. Köhler, M. Krnc, N. Pivac, R. Scheffler,
     M. Strehler
-  arxiv_url: https://doi.org/10.1016/j.entcs.2019.08.010
+  arxiv_url: http://arxiv.org/abs/1811.09249
 - bibsource: dblp computer science bibliography, https://dblp.org
   biburl: https://dblp.org/rec/journals/corr/abs-1806-02596.bib
   timestamp: Mon, 13 Aug 2018 01:00:00 +0200
@@ -504,6 +531,8 @@
   ENTRYTYPE: article
   ID: DBLP:journals/corr/abs-1806-02596
   short_authors: G. Bankhamer, R. Elsässer, D. Kaaser, M. Krnc
+  is_arxiv_only: true
+  arxiv_url: http://arxiv.org/abs/1806.02596
 - bibsource: dblp computer science bibliography, https://dblp.org
   biburl: https://dblp.org/rec/journals/netsci/KrncSSY16.bib
   timestamp: Thu, 14 Oct 2021 01:00:00 +0200
