@@ -15,17 +15,10 @@ toc_icon: "list"
 - Combinatorial game theory
 - Population protocols, distributed consensus
 
-### Thesis Supervision
-Are you considering writing a thesis under my supervision? Please identify an area of math/CS you are passionate about, then email me to arrange a meeting.
-
-### Useful Resources
-- [Tips for Graduate Students](./graduate.html) - For those wishing to explore the world of mathematics.
-- [The Hardy-Littlewood Collaboration Rule](./hardy-littlewood.html) - An overview of the collaboration ethos I support.
-
 <style>
   /* 1. LAYOUT FIX: Widen the page but keep TOC on the right */
   .page__inner-wrap {
-    width: 85% !important; /* Forces wider content */
+    width: 85% !important;
     max-width: 1400px !important;
   }
   
@@ -34,11 +27,11 @@ Are you considering writing a thesis under my supervision? Please identify an ar
   a:hover { color: #0b4f3c !important; text-decoration: underline; }
   .archive__item-title { color: #158466 !important; }
 
-  /* 3. GRID LAYOUT: Wrapping Text */
+  /* 3. GRID LAYOUT: Authors | Title (No Year) */
   .pub-row {
     display: grid;
-    /* Year (45px) | Authors (22% width) | Title (Remaining space) */
-    grid-template-columns: 45px 22% 1fr; 
+    /* Authors (30%) | Title (Auto) */
+    grid-template-columns: 30% 1fr; 
     gap: 20px;
     align-items: baseline;
     padding: 10px 0;
@@ -47,15 +40,8 @@ Are you considering writing a thesis under my supervision? Please identify an ar
   }
 
   /* 4. Column Styling */
-  .pub-year {
-    color: #888;
-    font-weight: bold;
-    font-size: 0.9em;
-  }
-  
   .pub-authors {
     color: #555;
-    /* ALLOW WRAPPING: */
     white-space: normal; 
     word-wrap: break-word;
     line-height: 1.4;
@@ -77,9 +63,20 @@ Are you considering writing a thesis under my supervision? Please identify an ar
   @media screen and (max-width: 800px) {
     .pub-row { grid-template-columns: 1fr; gap: 5px; }
     .pub-authors { font-size: 0.9em; color: #666; margin-bottom: 4px; }
-    .pub-year { font-size: 0.8em; margin-bottom: 2px;}
   }
 </style>
+
+### Academic Positions
+
+| Period | Position | Institution |
+| :--- | :--- | :--- |
+| 2022–Present | Associate Professor | Faculty of Mathematics, Natural Sciences and Information Technologies (University of Primorska) |
+| 2016–2021 | Docent (Assistant Professor) | Faculty of Mathematics, Natural Sciences and Information Technologies (University of Primorska) |
+| 2016–2018 | Postdoc (with Prof. R. Elsaesser) | Efficient Algorithms Group (Salzburg University) |
+| 2015–2016 | Teaching Assistant | Faculty of Mathematics, Natural Sciences and Information Technologies (University of Primorska) |
+| 2013 (Autumn)| Student Internship (with Prof. D. Kral) | Centre for Discrete Mathematics and its Applications (University of Warwick) |
+| 2011–2015 | Teaching Assistant & PhD Student | Faculty of Mathematics and Physics (University of Ljubljana) |
+| 2011–2015 | Young Researcher | Institute of Mathematics, Physics and Mechanics (Ljubljana) |
 
 ### Publications
 
@@ -88,9 +85,8 @@ Are you considering writing a thesis under my supervision? Please identify an ar
 {% for pub in publications %}
   <details>
     
-    <summary style="list-style: none; outline: none;">
+    <summary style="list-style: none; outline: none; cursor: pointer;">
       <div class="pub-row">
-        <div class="pub-year">{{ pub.year }}</div>
         
         <div class="pub-authors" title="{{ pub.short_authors }}">
           {{ pub.short_authors | default: pub.author | replace: "M. Krnc", "•" | replace: "Matjaž Krnc", "•" }}
@@ -103,6 +99,8 @@ Are you considering writing a thesis under my supervision? Please identify an ar
     <div style="background: #f0fdf4; padding: 15px; margin-top: -1px; border-bottom: 1px solid #ccebd4; font-size: 0.9em;">
       
       <div style="margin-bottom: 10px; color: #444;">
+        <strong>Year:</strong> {{ pub.year }} <br>
+        
         {% if pub.journal %}
           <strong>Journal:</strong> <i>{{ pub.journal }}</i>
         {% elsif pub.booktitle %}
@@ -130,21 +128,9 @@ Are you considering writing a thesis under my supervision? Please identify an ar
   </details>
 {% endfor %}
 
-<div style="margin-top: 30px; font-size: 0.8em; color: #888;">
+<div style="margin-top: 30px; margin-bottom: 50px; font-size: 0.8em; color: #888;">
   Full lists available on <a href="./dblp_publications.html">DBLP</a> or <a href="https://bit.ly/Krnc-Scholar">Google Scholar</a>.
 </div>
-
-### Academic Positions
-
-| Period | Position | Institution |
-| :--- | :--- | :--- |
-| 2022–Present | Associate Professor | Faculty of Mathematics, Natural Sciences and Information Technologies (University of Primorska) |
-| 2016–2021 | Docent (Assistant Professor) | Faculty of Mathematics, Natural Sciences and Information Technologies (University of Primorska) |
-| 2016–2018 | Postdoc (with Prof. R. Elsaesser) | Efficient Algorithms Group (Salzburg University) |
-| 2015–2016 | Teaching Assistant | Faculty of Mathematics, Natural Sciences and Information Technologies (University of Primorska) |
-| 2013 (Autumn)| Student Internship (with Prof. D. Kral) | Centre for Discrete Mathematics and its Applications (University of Warwick) |
-| 2011–2015 | Teaching Assistant & PhD Student | Faculty of Mathematics and Physics (University of Ljubljana) |
-| 2011–2015 | Young Researcher | Institute of Mathematics, Physics and Mechanics (Ljubljana) |
 
 ### Grants & Awards
 
@@ -156,20 +142,6 @@ Are you considering writing a thesis under my supervision? Please identify an ar
 | 2016 | Funds for attending São Paulo School of Advanced Science on Algorithms, Combinatorics and Optimization |
 | 2015 | Award for early PhD defense |
 | 2013 | Ad-futura mobility grant for PhD students (Research visit to Warwick University) |
-
-
-### Research Collaborations & Students
-
-**MSc Students:**
-Mikita Akulich, Nina Klobas, Nevena Pivač, Ina Bašić.
-
-**BSc Students:**
-Mikita Akulich, Jelena Ilić, Đorđe Klisura, Ina Bašić, Hannah Meit.
-
-**Research Collaborators:**
-I have had the pleasure of doing research (one week or more) with:
-Jernej Azarija, Vesna Andova, Nino Bašič, Gregor Bankhamer, Jesse Beisegel, Petra Berenbrink, Marthe Bonamy, Nina Chiarelli, Maria Chudnovsky, Clément Dallard, Andreas Darmann, Carolin Denkert, Zdenek Dvorak, Robert Elsaesser, Rok Erman, Robert Ganian, Frederik Garbe, Pascal Gollin, Eric Gottlieb, Janko Gravner, Vladimir Gurvich, Robert Hancock, Meike Hatzel, Frederic Havet, Claire Hilaire, Tomas Kaiser, Dominik Kaaser, Frantisek Kardos, Lukasz Kowalik, Peter Kling, Ekkehard Köhler, Daniel Kráľ, Martin Kupec, Ander Lamaison, Anita Liebenau, Borut Lužar, Aljoscha Mayer, Martin Milanič, Martina Mockovciakova, Samuel Mohr, Peter Muršič, Vít Musil, Sarka Petrickova, Ulrik Pferschy, Michał Pilipczuk, Tomaž Pisanski, Jean-Florent Raymond, Nicolás Rivera, Ondrej Rucky, Thomas Sauerwald, Joachim Schauer, Robert Scheffler, Jean-Sebastien Sereni, Ladislav Stacho, Martin Strehler, John Sylvester, Riste Škrekovski, Jan Volec, Misha Vyalyi, Tomasz Walen, Robin J Wilson, Zelealem Yilma.
-
 
 ### Talks & Visits
 
@@ -215,3 +187,22 @@ Jernej Azarija, Vesna Andova, Nino Bašič, Gregor Bankhamer, Jesse Beisegel, Pe
 | 2019 Oct. | MATCOS 2019 : Middle-European Conference on Applied Theoretical Computer Science | [matcos.iam.upr.si](http://matcos.iam.upr.si) |
 | 2019 Oct. | StuCoSReC 2019 - The 6th Student Computer Science Research Conference | [stucosrec.feri.um.si/2019](http://stucosrec.feri.um.si/2019) |
 | 2018 Feb. | Software Tools for Mathematics, SageDays'97 workshop | [stm.famnit.upr.si](http://stm.famnit.upr.si) |
+
+### Research Collaborations & Students
+
+**MSc Students:**
+Mikita Akulich, Nina Klobas, Nevena Pivač, Ina Bašić.
+
+**BSc Students:**
+Mikita Akulich, Jelena Ilić, Đorđe Klisura, Ina Bašić, Hannah Meit.
+
+**Research Collaborators:**
+I have had the pleasure of doing research (one week or more) with:
+Jernej Azarija, Vesna Andova, Nino Bašič, Gregor Bankhamer, Jesse Beisegel, Petra Berenbrink, Marthe Bonamy, Nina Chiarelli, Maria Chudnovsky, Clément Dallard, Andreas Darmann, Carolin Denkert, Zdenek Dvorak, Robert Elsaesser, Rok Erman, Robert Ganian, Frederik Garbe, Pascal Gollin, Eric Gottlieb, Janko Gravner, Vladimir Gurvich, Robert Hancock, Meike Hatzel, Frederic Havet, Claire Hilaire, Tomas Kaiser, Dominik Kaaser, Frantisek Kardos, Lukasz Kowalik, Peter Kling, Ekkehard Köhler, Daniel Kráľ, Martin Kupec, Ander Lamaison, Anita Liebenau, Borut Lužar, Aljoscha Mayer, Martin Milanič, Martina Mockovciakova, Samuel Mohr, Peter Muršič, Vít Musil, Sarka Petrickova, Ulrik Pferschy, Michał Pilipczuk, Tomaž Pisanski, Jean-Florent Raymond, Nicolás Rivera, Ondrej Rucky, Thomas Sauerwald, Joachim Schauer, Robert Scheffler, Jean-Sebastien Sereni, Ladislav Stacho, Martin Strehler, John Sylvester, Riste Škrekovski, Jan Volec, Misha Vyalyi, Tomasz Walen, Robin J Wilson, Zelealem Yilma.
+
+### Thesis Supervision
+Are you considering writing a thesis under my supervision? Please identify an area of math/CS you are passionate about, then email me to arrange a meeting.
+
+### Useful Resources
+- [Tips for Graduate Students](./graduate.html) - For those wishing to explore the world of mathematics.
+- [The Hardy-Littlewood Collaboration Rule](./hardy-littlewood.html) - An overview of the collaboration ethos I support.
