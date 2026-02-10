@@ -9,7 +9,7 @@ url: "https://mkrnc.github.io"
 # AUTHOR SIDEBAR SETTINGS (This replaces your "Contact" section)
 author:
   name: "Matjaž Krnc"
-  avatar: "/_data/samuel_sv_krst_1313.jpg" # Ensure this file exists in your root folder
+  avatar: "/mkrnc-g.jpg" # Ensure this file exists in your root folder
   bio: "Associate Professor at **University of Primorska** (FAMNIT)."
   location: "Koper, Slovenia"
   links:
