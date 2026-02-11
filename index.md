@@ -2,7 +2,6 @@
 layout: single
 author_profile: true
 permalink: /
-title: "Curriculum Vitae"
 toc: true
 toc_sticky: true
 toc_label: "Jump to"
