@@ -2,6 +2,7 @@
 layout: single
 author_profile: true
 permalink: /
+title: "Curriculum Vitae"
 toc: true
 toc_sticky: true
 toc_label: "Jump to"
@@ -15,6 +16,7 @@ toc_icon: "list"
 - Population protocols, distributed consensus
 
 <style>
+  .site-title { display: none !important; }
   /* 1. LAYOUT */
   .page__inner-wrap {
     width: 85% !important;

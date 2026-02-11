@@ -2,6 +2,7 @@ remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "default" # Options: "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
 
 # Site Settings
+title: Matjaž Krnc
 description: "Associate Professor in Computer Science and Mathematics"
 url: "https://mkrnc.github.io" 
 
