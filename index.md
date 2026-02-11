@@ -209,5 +209,6 @@ Jernej Azarija, Vesna Andova, Nino Bašič, Gregor Bankhamer, Jesse Beisegel, Pe
 Are you considering writing a thesis under my supervision? Please identify an area of math/CS you are passionate about, then email me to arrange a meeting.
 
 ### Useful Resources
+From Fan Chung's webpage. 
 - [Tips for Graduate Students](./graduate.html) - For those wishing to explore the world of mathematics.
 - [The Hardy-Littlewood Collaboration Rule](./hardy-littlewood.html) - An overview of the collaboration ethos I support.
