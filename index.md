@@ -179,7 +179,7 @@ toc_icon: "list"
 **Research Visits**
 
 * **Europe:** INRIA (France), University of West Bohemia (Czech), Charles University (Czech), Pavol Jozef Šafárik University (Slovakia), Warsaw University (Poland), University of Zagreb (Croatia), LIAFA (France), Universität Hamburg (Germany), Cambridge (UK), Brandenburgische Technische Universität (Germany), Karl-Franzens-Universität Graz (Austria), Masaryk University (Czech).
-* **USA:** Rhodes College (TN), University of Memphis (TN), Rutgers University (NJ).
+* **USA:** Princeton University (NJ), Rutgers University (NJ), Rhodes College (TN), University of Memphis (TN).
 * **Other:** HSE (Moscow), National Institute of Informatics (Tokyo).
 
 ### Organised Events
@@ -203,7 +203,7 @@ Mikita Akulich, Jelena Ilić, Đorđe Klisura, Ina Bašić, Hannah Meit.
 
 **Research Collaborators:**
 I have had the pleasure of doing research (one week or more) with:
-Jernej Azarija, Vesna Andova, Nino Bašič, Gregor Bankhamer, Jesse Beisegel, Petra Berenbrink, Marthe Bonamy, Nina Chiarelli, Maria Chudnovsky, Clément Dallard, Andreas Darmann, Carolin Denkert, Zdenek Dvorak, Robert Elsaesser, Rok Erman, Robert Ganian, Frederik Garbe, Pascal Gollin, Eric Gottlieb, Janko Gravner, Vladimir Gurvich, Robert Hancock, Meike Hatzel, Frederic Havet, Claire Hilaire, Tomas Kaiser, Dominik Kaaser, Frantisek Kardos, Lukasz Kowalik, Peter Kling, Ekkehard Köhler, Daniel Kráľ, Martin Kupec, Ander Lamaison, Anita Liebenau, Borut Lužar, Aljoscha Mayer, Martin Milanič, Martina Mockovciakova, Samuel Mohr, Peter Muršič, Vít Musil, Sarka Petrickova, Ulrik Pferschy, Michał Pilipczuk, Tomaž Pisanski, Jean-Florent Raymond, Nicolás Rivera, Ondrej Rucky, Thomas Sauerwald, Joachim Schauer, Robert Scheffler, Jean-Sebastien Sereni, Ladislav Stacho, Martin Strehler, John Sylvester, Riste Škrekovski, Jan Volec, Misha Vyalyi, Tomasz Walen, Robin J Wilson, Zelealem Yilma.
+Jernej Azarija, Vesna Andova, Nino Bašič, Gregor Bankhamer, Jesse Beisegel, Petra Berenbrink, Marthe Bonamy, Nina Chiarelli, Maria Chudnovsky, Julien Codsi, Clément Dallard, Andreas Darmann, Carolin Denkert, Zdenek Dvorak, Robert Elsaesser, Rok Erman, Robert Ganian, Frederik Garbe, Pascal Gollin, Eric Gottlieb, Janko Gravner, Vladimir Gurvich, Robert Hancock, Meike Hatzel, Frederic Havet, Claire Hilaire, Tomas Kaiser, Dominik Kaaser, Frantisek Kardos, Lukasz Kowalik, Peter Kling, Ekkehard Köhler, Daniel Kráľ, Martin Kupec, Ander Lamaison, Anita Liebenau, Borut Lužar, Aljoscha Mayer, Martin Milanič, Martina Mockovciakova, Samuel Mohr, Peter Muršič, Vít Musil, Sarka Petrickova, Ulrik Pferschy, Michał Pilipczuk, Tomaž Pisanski, Jean-Florent Raymond, Nicolás Rivera, Ondrej Rucky, Thomas Sauerwald, Joachim Schauer, Robert Scheffler, Jean-Sebastien Sereni, Ladislav Stacho, Martin Strehler, John Sylvester, Riste Škrekovski, Jan Volec, Misha Vyalyi, Tomasz Walen, Robin J Wilson, Zelealem Yilma.
 
 ### Thesis Supervision
 Are you considering writing a thesis under my supervision? Please identify an area of math/CS you are passionate about, then email me to arrange a meeting.
