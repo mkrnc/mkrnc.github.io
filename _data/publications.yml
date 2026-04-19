@@ -1,4 +1,19 @@
 - bibsource: dblp computer science bibliography, https://dblp.org
+  biburl: https://dblp.org/rec/journals/ejc/HilaireKMR26.bib
+  timestamp: Fri, 17 Apr 2026 01:00:00 +0200
+  doi: 10.1016/J.EJC.2026.104374
+  url: https://doi.org/10.1016/j.ejc.2026.104374
+  year: '2026'
+  pages: '104374'
+  volume: '135'
+  journal: Eur. J. Comb.
+  title: Linear colorings of graphs
+  author: Claire Hilaire and Matjaz Krnc and Martin Milanic and Jean-Florent Raymond
+  ENTRYTYPE: article
+  ID: DBLP:journals/ejc/HilaireKMR26
+  short_authors: C. Hilaire, M. Krnc, M. Milanic, J. Raymond
+  arxiv_url: https://doi.org/10.48550/arXiv.2505.02768
+- bibsource: dblp computer science bibliography, https://dblp.org
   biburl: https://dblp.org/rec/journals/combinatorics/GurvichKMV25.bib
   timestamp: Mon, 01 Dec 2025 00:00:00 +0100
   doi: 10.37236/13023
@@ -44,23 +59,6 @@
   short_authors: J. Gravner, M. Krnc, M. Milanic, J. Raymond
   is_arxiv_only: true
   arxiv_url: https://doi.org/10.48550/arXiv.2501.03788
-- bibsource: dblp computer science bibliography, https://dblp.org
-  biburl: https://dblp.org/rec/journals/corr/abs-2505-02768.bib
-  timestamp: Sun, 29 Jun 2025 01:00:00 +0200
-  eprint: '2505.02768'
-  eprinttype: arXiv
-  doi: 10.48550/ARXIV.2505.02768
-  url: https://doi.org/10.48550/arXiv.2505.02768
-  year: '2025'
-  volume: abs/2505.02768
-  journal: CoRR
-  title: Linear colorings of graphs
-  author: Claire Hilaire and Matjaz Krnc and Martin Milanic and Jean-Florent Raymond
-  ENTRYTYPE: article
-  ID: DBLP:journals/corr/abs-2505-02768
-  short_authors: C. Hilaire, M. Krnc, M. Milanic, J. Raymond
-  is_arxiv_only: true
-  arxiv_url: https://doi.org/10.48550/arXiv.2505.02768
 - bibsource: dblp computer science bibliography, https://dblp.org
   biburl: https://dblp.org/rec/journals/corr/abs-2508-06216.bib
   timestamp: Sat, 13 Sep 2025 01:00:00 +0200
