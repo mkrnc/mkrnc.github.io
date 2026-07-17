@@ -154,6 +154,10 @@ toc_icon: "list"
 
 | Date | Institution |
 | :--- | :--- |
+| 2026 May | Matematika je kul (Summer school for mathematics, UP FAMNIT) |
+| 2026 Mar. | Monday with Murthay seminar, University of Haifa, Israel |
+| 2025 Nov. | Rhodes College, Tennessee, USA |
+| 2025 Sep. | DIGI-MAT: Workshop on Teaching Mathematics using Digital Tools (Cryptography) |
 | 2025 Apr. | FAMNIT math seminar |
 | 2024 May | Fachgebiet Diskrete Mathematik und Grundlagen der Informatik (B-TU Cottbus) |
 | 2024 Feb. | Rhodes College, Tennessee, USA |
@@ -184,9 +188,13 @@ toc_icon: "list"
 
 ### Organised Events
 
-| Date | Event | Webpage |
+| Date | Event | Link |
 | :--- | :--- | :--- |
+| 2026 Oct. | SCORES 2026 - 12th Student Computing Research Symposium | [www.scores.si](https://www.scores.si/) |
+| 2025 Avg. | Koper-Leipzig Graph Theory Workshop | [FAMNIT newsletter](https://www.famnit.upr.si/en/news/famnit-hosted-an-international-workshop-on-graph-theory/) |
+| 2024 Jun. | WG 2024 - 50th International Workshop on Graph-Theoretic Concepts in Computer Science | [https://conferences.famnit.upr.si/event/31/](https://conferences.famnit.upr.si/event/31/) |
 | 2023 Oct. | SCORES 2023 - 9th Student Computing Research Symposium | [www.scores.si](https://www.scores.si/) |
+| 2023 Apr. | Brno-Koper Graph Theory Workshop (Gozd Martuljek, Kranjska Gora, Slovenia) |  |
 | 2022 Oct. | MATCOS 2022 : Middle-European Conference on Applied Theoretical Computer Science | [matcos.iam.upr.si](http://matcos.iam.upr.si) |
 | 2021 Sep. | GROW 2022 : The Workshop on Graph Classes, Optimization and Width Parameters | [grow.famnit.upr.si](http://grow2021.famnit.upr.si) |
 | 2019 Oct. | MATCOS 2019 : Middle-European Conference on Applied Theoretical Computer Science | [matcos.iam.upr.si](http://matcos.iam.upr.si) |
