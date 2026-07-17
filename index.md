@@ -191,8 +191,9 @@ toc_icon: "list"
 | Date | Event | Link |
 | :--- | :--- | :--- |
 | 2026 Oct. | SCORES 2026 - 12th Student Computing Research Symposium | [www.scores.si](https://www.scores.si/) |
-| 2025 Avg. | Koper-Leipzig Graph Theory Workshop | [FAMNIT newsletter](https://www.famnit.upr.si/en/news/famnit-hosted-an-international-workshop-on-graph-theory/) |
-| 2024 Jun. | WG 2024 - 50th International Workshop on Graph-Theoretic Concepts in Computer Science | [https://conferences.famnit.upr.si/event/31/](https://conferences.famnit.upr.si/event/31/) |
+| 2026 Avg. | SCORES 2026 - 12th Student Computing Research Symposium | [www.scores.si](https://www.scores.si/) 
+| 2025 Avg. | SGTAC 2026 - Structural Graph Theory Workshop on the Adriatic Coast | [sgtac.famnit.upr.si/](https://sgtac.famnit.upr.si/) |
+| 2024 Jun. | WG 2024 - 50th International Workshop on Graph-Theoretic Concepts in Computer Science | [conferences.famnit.upr.si/event/31/](https://conferences.famnit.upr.si/event/31/) |
 | 2023 Oct. | SCORES 2023 - 9th Student Computing Research Symposium | [www.scores.si](https://www.scores.si/) |
 | 2023 Apr. | Brno-Koper Graph Theory Workshop (Gozd Martuljek, Kranjska Gora, Slovenia) |  |
 | 2022 Oct. | MATCOS 2022 : Middle-European Conference on Applied Theoretical Computer Science | [matcos.iam.upr.si](http://matcos.iam.upr.si) |
