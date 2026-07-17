@@ -14,6 +14,21 @@
   short_authors: C. Hilaire, M. Krnc, M. Milanic, J. Raymond
   arxiv_url: https://doi.org/10.48550/arXiv.2505.02768
 - bibsource: dblp computer science bibliography, https://dblp.org
+  biburl: https://dblp.org/rec/journals/siamdm/KralKL26.bib
+  timestamp: Thu, 16 Jul 2026 01:00:00 +0200
+  doi: 10.1137/25M177059X
+  url: https://doi.org/10.1137/25m177059x
+  year: '2026'
+  pages: 889--896
+  number: '2'
+  volume: '40'
+  journal: SIAM J. Discret. Math.
+  title: Ramsey Multiplicity of Apices of Trees
+  author: Daniel Král' and Matjaz Krnc and Ander Lamaison
+  ENTRYTYPE: article
+  ID: DBLP:journals/siamdm/KralKL26
+  short_authors: D. Král', M. Krnc, A. Lamaison
+- bibsource: dblp computer science bibliography, https://dblp.org
   biburl: https://dblp.org/rec/journals/combinatorics/GurvichKMV25.bib
   timestamp: Mon, 01 Dec 2025 00:00:00 +0100
   doi: 10.37236/13023
