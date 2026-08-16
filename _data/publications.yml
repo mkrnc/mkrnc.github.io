@@ -29,6 +29,23 @@
   ID: DBLP:journals/siamdm/KralKL26
   short_authors: D. Král', M. Krnc, A. Lamaison
 - bibsource: dblp computer science bibliography, https://dblp.org
+  biburl: https://dblp.org/rec/journals/corr/abs-2607-13995.bib
+  timestamp: Tue, 11 Aug 2026 01:00:00 +0200
+  eprint: '2607.13995'
+  eprinttype: arXiv
+  doi: 10.48550/ARXIV.2607.13995
+  url: https://doi.org/10.48550/arXiv.2607.13995
+  year: '2026'
+  volume: abs/2607.13995
+  journal: CoRR
+  title: Excluding paths and bicliques
+  author: Maria Chudnovsky and Julien Codsi and Matjaz Krnc and Martin Milanic
+  ENTRYTYPE: article
+  ID: DBLP:journals/corr/abs-2607-13995
+  short_authors: M. Chudnovsky, J. Codsi, M. Krnc, M. Milanic
+  is_arxiv_only: true
+  arxiv_url: https://doi.org/10.48550/arXiv.2607.13995
+- bibsource: dblp computer science bibliography, https://dblp.org
   biburl: https://dblp.org/rec/journals/combinatorics/GurvichKMV25.bib
   timestamp: Mon, 01 Dec 2025 00:00:00 +0100
   doi: 10.37236/13023
